@@ -1,0 +1,242 @@
+#EXTM3U
+
+#EXTINF:-1, CNN BRASIL
+https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
+
+
+#EXTINF:-1, CANAL UOL
+https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
+
+
+#EXTINF:-1, PLAYTV
+https://isaocorp.cloudecast.com/playtv/playlist.m3u8
+
+
+
+#EXTINF:-1, REVRY BRASIL
+https://dletvjdknba4f.cloudfront.net/playlist.m3u8
+
+
+#EXTINF:-1, PET COLLECTIVE
+https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1, TV PARANA TURISMO
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+
+
+#EXTINF:-1, JOVEM PAN NEWS
+https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
+
+
+#EXTINF:-1, TV BRASIL
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
+
+
+#EXTINF:-1, TRACE BRASIL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+
+
+#EXTINF:-1, FASHION TV
+https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
+
+
+
+#EXTINF:-1, JUST FOR LAUGHS GAGS
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1, MOVIE SPHERE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+
+
+
+#EXTINF:-1, NEW BRASIL
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
+
+
+#EXTINF:-1, TV RECORD NEWS
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w93080412.m3u8
+
+
+#EXTINF:-1, TV CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1772209437.m3u8
+
+
+#EXTINF:-1, RETRO CARTOON 
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w985163336.m3u8
+
+
+
+#EXTINF:-1, TV CLASSICOS DO CINEMA
+https://stmv1.srvif.com/movies1/movies1/chunklist_w1980831357.m3u8
+
+
+#EXTINF:-1, TV METROPOLE
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist720p.m3u8
+
+
+#EXTINF:-1, ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w339018147.m3u8
+
+
+#EXTINF:-1, JOVEM PAN NEWS
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
+
+
+#EXTINF:-1, C3TV
+https://live-c.cf.dmcdn.net/sec2(WTjCgTmcNIvSbDjeJJnao_Btfu3XqfljI6em8WkHW_iajrCyJJmH0A5WxtjdW03z66MGgKzTDpSNxYobcMfNgl5BONi2i5wlhQwUrL2FJHgb2BXDw14vi77dG-QJM8kw)/dm/3/x943w6k/s/live-720.m3u8
+
+
+#EXTINF:-1, CLASSIQUE WESTERN TV
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w616831381.m3u8
+
+
+#EXTINF:-1, GOSPEL MOVIES TV
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w868945192.m3u8
+
+
+
+#EXTINF:-1, TV JAPI
+https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w2101897625.m3u8
+
+
+#EXTINF:-1, TOP MIX TV
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w1728916551.m3u8
+
+
+#EXTINF:-1, TV CLASSICOS
+https://stmv1.srvif.com/canal29/canal29/chunklist_w1518725986.m3u8
+
+
+#EXTINF:-1, RUNTIME
+https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
+
+
+
+#EXTINF:-1, CANAL 29
+https://stmv1.srvif.com/canal29/canal29/chunklist_w587177497.m3u8
+
+
+#EXTINF:-1, TV GAZETA
+https://live-c.cf.dmcdn.net/sec2(w_In6UbcO1miDilliO5keqeuzCEiy4xJVvcKpt0ZpdDHEc94qmqGakDnuII6yMzVeLS9nwVmuiK2vHzTrgvbdQJxWgOQKTuBg_WPpEy_pYotyTh0yuvP5Mqg4-uEhEZQ)/dm/3/x8ttlxm/s/live-720.m3u8
+
+
+#EXTINF:-1, LOADING TV
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w690161048.m3u8
+
+
+
+#EXTINF:-1, AMAZON SAT
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+
+
+#EXTINF:-1, REDE CLOUDING
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w227660947.m3u8
+
+
+#EXTINF:-1, REDE TV
+https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
+
+
+#EXTINF:-1, TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+
+
+#EXTINF:-1, CENTRAL TV
+https://tv02.zas.media:1936/centraltvweb/centraltvweb/chunklist_w618196763.m3u8
+
+
+#EXTINF:-1, ROCK TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+
+
+#EXTINF:-1, BR8 TV  
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b1096000.m3u8
+
+
+#EXTINF:-1, RFTV
+https://tv01.zas.media:1936/rftv/rftv/chunklist_w1141530463.m3u8
+
+
+#EXTINF:-1, TV MEIO NORTE
+https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
+
+
+#EXTINF:-1, TV GAZIN
+https://caikron.com.br:19360/floripa/canal1.m3u8
+
+
+#EXTINF:-1, ANIMAX 
+https://stream.ichibantv.com:3547/stream/play.m3u8
+
+
+#EXTINF:-1, VIVAX TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist_w656054096.m3u8
+
+
+#EXTINF:-1, TV FELIZ
+https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w203077480.m3u8
+
+
+#EXTINF:-1, REDE BRASIL
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w682489330.m3u8
+
+
+#EXTINF:-1, SONY ONE CLASSICS
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/2000.m3u8
+
+
+
+#EXTINF:-1, SONY ONE EMOCOES
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/2000.m3u8
+
+
+#EXTINF:-1, SOULTV
+https://video01.soultv.com.br/soultv/soultv/playlist.m3u8
+
+
+#EXTINF:-1, DARKFLIX
+https://video01.soultv.com.br/darkflix/darkflix/index.m3u8
+
+
+#EXTINF:-1, VIAJANDO PELO BRASIL
+https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
+
+
+
+#EXTINF:-1, BEM MELHOR
+https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
+
+
+#EXTINF:-1, CINEMONDE
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+
+
+#EXTINF:-1, FILMRISEFRRESERIES
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
+
+
+#EXTINF:-1, URBAN MOVIES
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+
+
+#EXTINF:-1, URBAN DOCS
+http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+
+
+
+#EXTINF:-1, NGT
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1, REDE MAIS FAMILIA
+https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w410840186.m3u8
+
+
+
+#EXTINF:-1, TV MEIO
+https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w125450168.m3u8
