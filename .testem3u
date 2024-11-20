@@ -56,6 +56,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1, AG TV
+https://video01.kshost.com.br:4443/grezzana1839/grezzana1839/chunklist_w1173246845.m3u8
+
+
+#EXTINF:-1, TV SONATA
+https://stmv1.video.cloudstream.com.br/tiago/tiago/chunklist_w1602078796.m3u8
+
 
 #EXTINF:-1, JUST FOR LAUGHS GAGS
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
