@@ -282,3 +282,18 @@ https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/2000.m3u8
 
 #EXTINF:-1, DEMAND AFRICA
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1, TLC
+https://cdn-3.nxplay.com.br/TLC_BR_NX/tracks-v2a1/mono.m3u8
+
+
+
+#EXTINF:-1, HGTV
+https://cdn-3.nxplay.com.br/HGTV_BR_NX/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1, DISCOVERY CHANNEL
+https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
+
+
