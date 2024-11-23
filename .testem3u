@@ -293,16 +293,10 @@ https://cdn-3.nxplay.com.br/TLC_BR_NX/tracks-v2a1/mono.m3u8
 https://cdn-3.nxplay.com.br/HGTV_BR_NX/tracks-v2a1/mono.m3u8
 
 
-#EXTINF:-1, DISCOVERY CHANNEL
-https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
-
 
 #EXTINF:-1, AMC
 https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/tracks-v2a1/mono.m3u8
 
-
-#EXTINF:-1, AXN
-https://cdn-3.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
 
 
 #EXTINF:-1, CINEBRASIL TV
