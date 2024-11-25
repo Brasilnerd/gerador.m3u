@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, CNN BRASIL
-https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1734413648.m3u8
 
 
 #EXTINF:-1, CANAL UOL
@@ -141,8 +141,10 @@ https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stmv1.srvif.com/canal29/canal29/chunklist_w587177497.m3u8
 
 
-#EXTINF:-1, BAND
-https://live-c2.cf.dmcdn.net/sec2(NyMIqXagsKPELE3ZLZOqKeQaIwIId_QCvHkXmlSjjJ0uNFEAU4Z-NTuQSB9jcaUftZq2qCB_YkkDrrvBSc6E79MufyLx-FZuvY91otJbBj_jEb3lTZNgo_0gUdTiqfqY)/cloud/3/x83vbd6/s/live-480.m3u8
+
+#EXTINF:-1, IMPERIAL TV
+https://acesso.ecast.site:3630/live/imperiallive.m3u8
+
 
 
 #EXTINF:-1, LOADING TV
