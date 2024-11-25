@@ -16,6 +16,12 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 https://isaocorp.cloudecast.com/playtv/playlist.m3u8
 
 
+
+
+#EXTINF:-1, Sport Club Internacional
+https://clubeinternacionalcod.akamaized.net/internacional/internacional/chunklist_w350984943.m3u8
+
+
 #EXTINF:-1, D+TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1514533455.m3u8
 
