@@ -45,6 +45,11 @@ https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 
+
+#EXTINF:-1, TV GAZETA
+https://live-c.cf.dmcdn.net/sec2(0iY1PYbMF6Ow8-wfzwXSnfzZSluKGjxTyoAMcOYGtnOXwTy11HFxOTnf9tutkhgxnp5T6-Mk8iP7W6bRQse92LLZjwoVKp9-PWS-lAJ9C4VonZV5uOX8qU4Yqv2G5N29)/dm/3/x8ttlxm/s/live-480.m3u8
+
+
 #EXTINF:-1, TENDA TV
 https://tv02.zas.media:1936/tendatv/tendatv/chunklist_w144730994.m3u8
 
