@@ -8,6 +8,10 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1734413648.m3u8
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/band.png" group-title="", Band (RBA TV)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+
 #EXTINF:-1, PLAYTV
 https://isaocorp.cloudecast.com/playtv/playlist.m3u8
 
