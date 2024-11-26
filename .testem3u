@@ -61,7 +61,7 @@ https://isaocorp.cloudecast.com/astraltv/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1, TV PADRE CICERO
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/tvpadrecicero.png" group-title="", TV PADRE CICERO
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w389327731.m3u8
 
 
