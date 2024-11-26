@@ -56,7 +56,7 @@ https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 
-#EXTINF:-1, ASTRAL TV
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/astraltv.png" group-title="", ASTRAL TV
 https://isaocorp.cloudecast.com/astraltv/tracks-v1a1/mono.m3u8
 
 
