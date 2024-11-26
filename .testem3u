@@ -126,9 +126,6 @@ https://stmv1.srvif.com/movies1/movies1/chunklist_w1980831357.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist720p.m3u8
 
 
-#EXTINF:-1, ISTV
-https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w339018147.m3u8
-
 
 #EXTINF:-1, JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
@@ -235,7 +232,7 @@ https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w203077480.m3u8
 https://tv02.zas.media:1936/centraltvweb/centraltvweb/chunklist_w1618483566.m3u8
 
 
-#EXTINF:-1, ISTV
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/ISTV.png" group-title="", ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w339018147.m3u8
 
 
