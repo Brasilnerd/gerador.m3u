@@ -40,7 +40,7 @@ https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/chunklist_w1433763407.
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w331214604.m3u8
 
 
-#EXTINF:-1, SESC TV
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/sesctv.png" group-title="", SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
 
 
