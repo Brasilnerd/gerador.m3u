@@ -241,7 +241,7 @@ http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 
 
 
-#EXTINF:-1, REDE BRASIL
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Marca_rede_brasil_rgb-color.png" group-title="", REDE BRASIL
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w682489330.m3u8
 
 
