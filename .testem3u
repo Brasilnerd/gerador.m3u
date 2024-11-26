@@ -23,7 +23,7 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1514533455.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/brsupertv.png" group-title="", BRSUPER TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/brsupertv.png" group-title="", BRSUPER TV
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 
 
