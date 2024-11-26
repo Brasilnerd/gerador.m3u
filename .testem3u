@@ -22,6 +22,11 @@ https://isaocorp.cloudecast.com/playtv/playlist.m3u8
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1514533455.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/brsupertv.png" group-title="", BRSUPER TV
+http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
+
+
 #EXTINF:-1, SABOR & ARTE
 https://cdn-3.nxplay.com.br/SABOR_E_ARTE/tracks-v2a1/mono.m3u8
 
@@ -51,14 +56,14 @@ https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
 https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/cazetv.png" group-title="", Caze TV
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
-
+#EXTINF:-1, ASTRAL TV
+https://isaocorp.cloudecast.com/astraltv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1, TV GAZETA
-https://live-c.cf.dmcdn.net/sec2(0iY1PYbMF6Ow8-wfzwXSnfzZSluKGjxTyoAMcOYGtnOXwTy11HFxOTnf9tutkhgxnp5T6-Mk8iP7W6bRQse92LLZjwoVKp9-PWS-lAJ9C4VonZV5uOX8qU4Yqv2G5N29)/dm/3/x8ttlxm/s/live-480.m3u8
+
+#EXTINF:-1, TV PADRE CICERO
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w389327731.m3u8
+
 
 
 #EXTINF:-1, TENDA TV
@@ -86,7 +91,8 @@ https://video01.kshost.com.br:4443/grezzana1839/grezzana1839/chunklist_w11732468
 
 
 #EXTINF:-1, TV SONATA
-https://stmv1.video.cloudstream.com.br/tiago/tiago/chunklist_w1602078796.m3u8
+https://stmv1.video.cloudstream.com.br/tiago/tiago/chunklist_w1892072132.m3u8
+
 
 
 #EXTINF:-1, JUST FOR LAUGHS GAGS
@@ -174,6 +180,8 @@ https://acesso.ecast.site:3630/live/imperiallive.m3u8
 
 #EXTINF:-1, LOADING TV
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w690161048.m3u8
+
+
 
 
 
