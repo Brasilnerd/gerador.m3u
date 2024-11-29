@@ -129,9 +129,6 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist7
 
 
 
-#EXTINF:-1, JOVEM PAN NEWS
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
-
 
 #EXTINF:-1, TV MAIS PET
 https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
@@ -245,6 +242,11 @@ http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Marca_rede_brasil_rgb-color.png" group-title="", REDE BRASIL
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w682489330.m3u8
+
+
+#EXTINF:-1, TV CENTRO SUL
+https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/chunklist_w1294307330.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="",YPÊ TV
