@@ -26,6 +26,7 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1514533455.m3u
 
 
 
+
 #EXTINF:-1, SABOR & ARTE
 https://cdn-3.nxplay.com.br/SABOR_E_ARTE/tracks-v2a1/mono.m3u8
 
@@ -248,8 +249,11 @@ https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w682489330
 https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/chunklist_w1294307330.m3u8
 
 
+#EXTINF:-1, TV LITORAL
+https://srv3.zcast.com.br/saranet/saranet/chunklist_w1167263951.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",YPÊ TV
+
+#EXTINF:-1, YPÊ TV
 https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
 
 
