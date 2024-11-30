@@ -10,7 +10,7 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1734413648.m3u8
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/BAND.png" group-title="", Band
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/BAND.png" group-title="", BAND
 http://170.80.69.8:8000/play/a0dl/index.m3u8
 
 
@@ -178,7 +178,6 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w690161048.m3u8
 
 
 
-
 #EXTINF:-1, AMAZON SAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 
@@ -255,6 +254,17 @@ https://srv3.zcast.com.br/saranet/saranet/chunklist_w1167263951.m3u8
 
 #EXTINF:-1, YPÊ TV
 https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+
+
+#EXTINF:-1, FONTE TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w368109737.m3u8
+
+
+
+#EXTINF:-1, TV DAS ARTES
+https://stmv7.samcast.com.br/luca8510/luca8510/chunklist_w2125222108.m3u8
+
+
 
 
 #EXTINF:-1, SONY ONE CLASSICS
@@ -349,8 +359,6 @@ https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/tracks-v2a1/mono.m3u8
 
 
 
-#EXTINF:-1, CINEBRASIL TV
-https://cdn-3.nxplay.com.br/Cinebrasil/tracks-v2a1/mono.m3u8
 
 
 
