@@ -10,6 +10,16 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1734413648.m3u8
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 
 
+#EXTINF:-1, JOVEM PAN NEWS
+https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
+
+
+
+#EXTINF:-1, TV RECORD NEWS
+https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w93080412.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/BAND.png" group-title="", BAND
 http://170.80.69.8:8000/play/a0dl/index.m3u8
 
@@ -24,6 +34,30 @@ https://isaocorp.cloudecast.com/playtv/playlist.m3u8
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1514533455.m3u8
 
 
+
+#EXTINF:-1, TV CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1772209437.m3u8
+
+
+
+
+#EXTINF:-1, TV BRASIL
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
+
+
+
+#EXTINF:-1, TV PARANA TURISMO
+https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
+
+
+
+#EXTINF:-1, REDE MINAS
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w725891560_b1731072.m3u8
+
+
+
+#EXTINF:-1, TV PLAN
+https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w1478353086.m3u8
 
 
 
@@ -52,8 +86,6 @@ https://dletvjdknba4f.cloudfront.net/playlist.m3u8
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1, TV PARANA TURISMO
-https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/astraltv.png" group-title="", ASTRAL TV
@@ -70,12 +102,6 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w3893277
 https://tv02.zas.media:1936/tendatv/tendatv/chunklist_w144730994.m3u8
 
 
-#EXTINF:-1, JOVEM PAN NEWS
-https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
-
-
-#EXTINF:-1, TV BRASIL
-https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 
 
 #EXTINF:-1, TRACE BRASIL
@@ -108,12 +134,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
 
 
-#EXTINF:-1, TV RECORD NEWS
-https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w93080412.m3u8
 
-
-#EXTINF:-1, TV CULTURA
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1772209437.m3u8
 
 
 #EXTINF:-1, RETRO CARTOON 
@@ -209,6 +230,10 @@ https://tv01.zas.media:1936/rftv/rftv/chunklist_w1141530463.m3u8
 
 #EXTINF:-1, TV MEIO NORTE
 https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
+
+
+#EXTINF:-1, TV MEIO
+https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w125450168.m3u8
 
 
 #EXTINF:-1, TV ARACATI
@@ -310,6 +335,11 @@ http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 
 
 
+#EXTINF:-1, REDE UNIVERSO
+https://srv5.zcast.com.br/universotv/universotv/chunklist_w1055754540.m3u8
+
+
+
 #EXTINF:-1, NGT
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 
@@ -324,12 +354,6 @@ https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w410840186.m
 https://tv02.zas.media:1936/masper/masper/chunklist_w144981236.m3u8
 
 
-#EXTINF:-1, TV MEIO
-https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w125450168.m3u8
-
-
-#EXTINF:-1, TV PLAN
-https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w1478353086.m3u8
 
 
 #EXTINF:-1, GLN TV 
