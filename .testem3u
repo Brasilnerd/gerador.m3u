@@ -11,16 +11,12 @@ https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 
 
 #EXTINF:-1, JOVEM PAN NEWS
-https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 
 
 
 #EXTINF:-1, TV RECORD NEWS
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w93080412.m3u8
-
-
-#EXTINF:-1, TVD NEWS
-http://201.159.95.130:8000/play/a001/72230532.m3u8
 
 
 
@@ -371,19 +367,6 @@ https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/2000.m3u8
 #EXTINF:-1, DEMAND AFRICA
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
 
-
-#EXTINF:-1, TLC
-https://cdn-3.nxplay.com.br/TLC_BR_NX/tracks-v2a1/mono.m3u8
-
-
-
-#EXTINF:-1, HGTV
-https://cdn-3.nxplay.com.br/HGTV_BR_NX/tracks-v2a1/mono.m3u8
-
-
-
-#EXTINF:-1, AMC
-https://cdn-3.nxplay.com.br/AMC_BRASIL_TK/tracks-v2a1/mono.m3u8
 
 
 
