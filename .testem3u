@@ -35,6 +35,14 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1514533455.m3u
 
 
 
+
+#EXTINF:-1, RTN TV
+https://tv01.zas.media:1936/rtntv/rtntv/chunklist_w720423657.m3u8
+
+
+
+
+
 #EXTINF:-1, TV CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1772209437.m3u8
 
@@ -267,6 +275,11 @@ http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Marca_rede_brasil_rgb-color.png" group-title="", REDE BRASIL
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w682489330.m3u8
+
+
+
+#EXTINF:-1, ABC BRASIL
+https://5cf4a2c2512a2.streamlock.net/8256/8256/chunklist_w673194693.m3u8
 
 
 #EXTINF:-1, TV CENTRO SUL
