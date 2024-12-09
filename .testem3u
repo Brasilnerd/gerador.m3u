@@ -29,6 +29,10 @@ https://live-b2.cf.dmcdn.net/sec2(dxc_JNCfMDhwXMMEc8gr3YqwLhzjOS0Z3B0tDqN0iySzFc
 http://170.80.69.8:8000/play/a0dl/index.m3u8
 
 
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="",Globo RJ HD
+https://stream1.freetv.fun/globo-rj-1.ctv
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/playtv.png" group-title="", PLAY TV
 https://isaocorp.cloudecast.com/playtv/playlist.m3u8
 
