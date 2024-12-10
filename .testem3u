@@ -35,7 +35,7 @@ http://170.80.69.8:8000/play/a0dl/index.m3u8
 https://stream1.freetv.fun/globo-rj-1.ctv
 
 
-#EXTINF:-1 tvg-id="SBTSP" tvg-name="SBTSP" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/sbt.png" group-title="ABERTO",SBT SP
+#EXTINF:-1 tvg-id="SBTSP" tvg-name="SBTSP" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/sbt.png" group-title="ABERTO",SBT RJ
 https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 
 
