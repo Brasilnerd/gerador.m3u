@@ -24,8 +24,7 @@ http://201.159.95.110:25461/live/site/site/666.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL
-https://live-b2.cf.dmcdn.net/sec2(KDcq5YI3Xc-qxIb2bBrfsqG1MTVZEMNjJ85NLY7D_C-neDMEI9lRqRFuVk6t8qFOtPHCHGJ6cm91XcCgDRIND2Fe2aG7_bNBbVVyNox_eSw9e06zqCa_jn7Bq7fVZPQk)/cloud/3/x99a9pe/d/live-480.m3u8
-
+https://live-b2.cf.dmcdn.net/sec2(ZiHsmANTxIsVtqWcyv3gEGlbD_mhW-f0PaIhGv2QDMkVoYeFtpYyHs6STqI-S8OQBAaK-mV9rUQoI40-cqzMtud78kycW7nJkDYYCrw6MQ7GfDA3z2XVW94ING26E9ar)/cloud/3/x99a9pe/d/live-240.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/BAND.png" group-title="ABERTO", BAND
@@ -61,7 +60,7 @@ http://dns.6tp.xyz/live/luizneto/997143156/2751880.m3u8
 https://stream1.freetv.fun/tv-gazeta-1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/playtv.png" group-title="", PLAY TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/playtv.png" group-title="ABERTO", PLAY TV
 https://isaocorp.cloudecast.com/playtv/playlist.m3u8
 
 
@@ -223,10 +222,6 @@ https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w17289
 https://stmv1.srvif.com/canal29/canal29/chunklist_w1518725986.m3u8
 
 
-#EXTINF:-1, RUNTIME
-https://d3vx6kwn4pkd9t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fj2q06aizeppd-prod/run/rt_br/rt_br.m3u8
-
-
 
 #EXTINF:-1, CANAL 29
 https://stmv1.srvif.com/canal29/canal29/chunklist_w587177497.m3u8
@@ -255,7 +250,8 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w227660947.m3u8
 
 
 #EXTINF:-1, TV MAX
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w1248689139.m3u8
+
 
 
 #EXTINF:-1, ROCK TV
@@ -352,8 +348,6 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/2000.m3u8
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/2000.m3u8
 
 
-#EXTINF:-1, SOULTV
-https://video01.soultv.com.br/soultv/soultv/playlist.m3u8
 
 
 #EXTINF:-1, DARKFLIX
