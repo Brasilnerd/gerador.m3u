@@ -36,11 +36,17 @@ http://170.80.69.8:8000/play/a0dl/index.m3u8
 https://stream1.freetv.fun/globo-rj-1.ctv
 
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/sbt.png" group-title="ABERTO",SBT RJ
-https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/sbt.png" group-title="ABERTO",SBT SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8?ManoTV
 
 
-#EXTINF:-1, REDE TV
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/redetv.png" group-title="ABERTO",RedeTV! SP HD
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
+
+
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/redetv.png" group-title="ABERTO",RedeTV! PARANÁ HD
 https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w994469238.m3u8
 
 
@@ -50,7 +56,12 @@ http://dns.6tp.xyz/live/luizneto/997143156/2751880.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="",TV GAZETA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Canal_Futura.png group-title="ABERTO",CANAL FUTURA
+https://tv.unisc.br/hls/test.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="ABERTO",TV GAZETA HD
 https://stream1.freetv.fun/tv-gazeta-1.m3u8
 
 
