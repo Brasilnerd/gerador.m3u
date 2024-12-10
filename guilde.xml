@@ -1,1 +1,842 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  </channel>
+<channel id="SBTRJ">
+<display-name>sbt</display-name>
+<display-name>sbt hd</display-name>
+</channel>
+  <programme start="20241209090000 +0000" stop="20241209120000 +0000" channel="SBTRJ">
+<title>Primeiro Impacto</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano através de análises e opiniões de colunistas.
+ * News
+</desc>
+</programme>
+<programme start="20241209120000 +0000" stop="20241209140000 +0000" channel="SBTRJ">
+<title>Chega Mais</title>
+<sub-title>Entertainment</sub-title>
+<desc>O programa aborda assuntos diversos como comportamento, moda, arte, cultura, beleza, economia, esportes, música e tudo o que as pessoas precisam e querem saber de forma leve e divertida.
+ * Entertainment
+</desc>
+</programme>
+<programme start="20241209140000 +0000" stop="20241209141500 +0000" channel="SBTRJ">
+<title>Chega Mais Notícias</title>
+<sub-title>Variety</sub-title>
+<desc>Matérias e reportagens sobre temas do cotidiano, prestação de serviços, comportamento, saúde, estilo de vida, mundo dos pets, cultura e gastronomia, da região de São Paulo.
+ * Variety
+</desc>
+</programme>
+<programme start="20241209141500 +0000" stop="20241209161500 +0000" channel="SBTRJ">
+<title>SBT Rio</title>
+<sub-title>News</sub-title>
+<desc>Confira as principais informações do dia. Prestando serviço para a população e mostrando os problemas e as qualidades do estado, o programa é um aliado do telespectador.
+ * News
+</desc>
+</programme>
+<programme start="20241209161500 +0000" stop="20241209164500 +0000" channel="SBTRJ">
+<title>SBT Esporte Rio</title>
+<desc>Acompanhe tudo sobre o futebol carioca, com comentários diários sobre os principais clubes do Rio de Janeiro. Além do futebol, que é o tema principal, outros esportes também são abordados.
+</desc>
+</programme>
+<programme start="20241209164500 +0000" stop="20241209173000 +0000" channel="SBTRJ">
+<title>Carinha de Anjo</title>
+<sub-title>Soap</sub-title>
+<desc>Dulce Maria é filha única de Gustavo e Tereza e tem 5 anos. Mas ao perder a mãe, passa a viver no colégio Doce Horizonte, internato religioso da zona rural, sem contato com o pai.
+ * Soap
+</desc>
+</programme>
+<programme start="20241209173000 +0000" stop="20241209183000 +0000" channel="SBTRJ">
+<title>Quando me Apaixono</title>
+<sub-title>Soap</sub-title>
+<desc>Renata, uma mulher apaixonada, se casa com Jerônimo, um homem obcecado por vingar a morte de seu irmão Rafael. Tudo fica mais complicado para Renata graças a sua madrasta e sua meia-irmã, que conspiram para atrapalhar o relacionamento deles.
+ * Soap
+</desc>
+</programme>
+<programme start="20241209183000 +0000" stop="20241209193000 +0000" channel="SBTRJ">
+<title>Fofocalizando</title>
+<sub-title>Newsmagazine</sub-title>
+<desc>Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.
+ * Newsmagazine
+</desc>
+</programme>
+<programme start="20241209193000 +0000" stop="20241209203000 +0000" channel="SBTRJ">
+<title>Meu Caminho É te Amar</title>
+<sub-title>Soap</sub-title>
+<desc>Guilherme, um caminhoneiro humilde e trabalhador, descobre que tem uma filha que foi dada para adoção. Quando ele descobre que Isabella, a filha adotiva de Daniela, é sua filha biológica, suas vidas se entrelaçam para sempre.
+ * Soap
+</desc>
+</programme>
+<programme start="20241209203000 +0000" stop="20241209213000 +0000" channel="SBTRJ">
+<title>Tá na Hora</title>
+<sub-title>News</sub-title>
+<desc>Com foco em prestação de serviço e informações úteis, repórteres por todo o Brasil trazem as notícias representando o povo na TV. Colunistas abordam temas relevantes e trazem a voz da população.
+ * News
+</desc>
+</programme>
+<programme start="20241209213000 +0000" stop="20241209224500 +0000" channel="SBTRJ">
+<title>Tá na Hora Rio</title>
+<sub-title>News</sub-title>
+<desc>Com foco em prestação de serviço e informações úteis, repórteres no Rio de Janeiro e região trazem as notícias representando o povo na TV. Colunistas abordam temas relevantes e trazem a voz da população.
+ * News
+</desc>
+</programme>
+<programme start="20241209224500 +0000" stop="20241209234500 +0000" channel="SBTRJ">
+<title>SBT Brasil</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos.
+ * News
+</desc>
+</programme>
+<programme start="20241209234500 +0000" stop="20241210003000 +0000" channel="SBTRJ">
+<title>A Caverna Encantada</title>
+<sub-title>Soap</sub-title>
+<desc>O médico e missionário Paulo recebe uma missão perigosa e, para cumpri-la, deixa a filha em um colégio interno no interior de São Paulo. Esperando uma visita do pai, Anna embarca em uma jornada própria e acaba descobrindo muito sobre seu passado.
+ * Soap
+</desc>
+</programme>
+<programme start="20241210003000 +0000" stop="20241210010000 +0000" channel="SBTRJ">
+<title>As Aventuras de Poliana</title>
+<sub-title>Soap</sub-title>
+<desc>Poliana é uma menina amorosa que fica sozinha no mundo após a morte de seu pai. Uma assistente social a envia para a casa de uma tia distante, uma matriarca autoritária.
+ * Soap
+</desc>
+</programme>
+<programme start="20241210010000 +0000" stop="20241210023000 +0000" channel="SBTRJ">
+<title>Programa do Ratinho</title>
+<sub-title>Variety</sub-title>
+<desc>O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o "Jornal Rational", "Gol Show" e "Dez ou Mil", entre outros.
+ * Variety
+</desc>
+</programme>
+<programme start="20241210023000 +0000" stop="20241210034500 +0000" channel="SBTRJ">
+<title>Arena SBT</title>
+<sub-title>Sports talk</sub-title>
+<desc>Saiba tudo o que rolou na rodada, com as polêmicas dentro e fora de campo e muita informação. Convidados especiais são recebidos a cada semana, sempre com irreverência e bom humor.
+ * Sports talk
+</desc>
+</programme>
+<programme start="20241210034500 +0000" stop="20241210043000 +0000" channel="SBTRJ">
+<title>The Noite com Danilo Gentili</title>
+<sub-title>Talk</sub-title>
+<desc>Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia.
+ * Talk
+</desc>
+</programme>
+<programme start="20241210043000 +0000" stop="20241210050000 +0000" channel="SBTRJ">
+<title>Operação Mesquita</title>
+<sub-title>Entertainment</sub-title>
+<desc>Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas.
+ * Entertainment
+</desc>
+</programme>
+<programme start="20241210050000 +0000" stop="20241210054500 +0000" channel="SBTRJ">
+<title>SBT PodNight</title>
+<sub-title>Talk</sub-title>
+<desc>Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais.
+ * Talk
+</desc>
+</programme>
+<programme start="20241210054500 +0000" stop="20241210090000 +0000" channel="SBTRJ">
+<title>SBT News</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe a cobertura dos assuntos mais relevantes sobre política, economia e justiça na madrugada, em uma experiência multiplataforma que une o digital à televisão e que traz correspondentes de locais onde o mundo já acordou.
+ * News
+</desc>
+</programme>
+<programme start="20241210090000 +0000" stop="20241210120000 +0000" channel="SBTRJ">
+<title>Primeiro Impacto</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano através de análises e opiniões de colunistas.
+ * News
+</desc>
+</programme>
+<programme start="20241210120000 +0000" stop="20241210140000 +0000" channel="SBTRJ">
+<title>Chega Mais</title>
+<sub-title>Entertainment</sub-title>
+<desc>O programa aborda assuntos diversos como comportamento, moda, arte, cultura, beleza, economia, esportes, música e tudo o que as pessoas precisam e querem saber de forma leve e divertida.
+ * Entertainment
+</desc>
+</programme>
+<programme start="20241210140000 +0000" stop="20241210141500 +0000" channel="SBTRJ">
+<title>Chega Mais Notícias</title>
+<sub-title>Variety</sub-title>
+<desc>Matérias e reportagens sobre temas do cotidiano, prestação de serviços, comportamento, saúde, estilo de vida, mundo dos pets, cultura e gastronomia, da região de São Paulo.
+ * Variety
+</desc>
+</programme>
+<programme start="20241210141500 +0000" stop="20241210161500 +0000" channel="SBTRJ">
+<title>SBT Rio</title>
+<sub-title>News</sub-title>
+<desc>Confira as principais informações do dia. Prestando serviço para a população e mostrando os problemas e as qualidades do estado, o programa é um aliado do telespectador.
+ * News
+</desc>
+</programme>
+<programme start="20241210161500 +0000" stop="20241210164500 +0000" channel="SBTRJ">
+<title>SBT Esporte Rio</title>
+<desc>Acompanhe tudo sobre o futebol carioca, com comentários diários sobre os principais clubes do Rio de Janeiro. Além do futebol, que é o tema principal, outros esportes também são abordados.
+</desc>
+</programme>
+<programme start="20241210164500 +0000" stop="20241210173000 +0000" channel="SBTRJ">
+<title>Carinha de Anjo</title>
+<sub-title>Soap</sub-title>
+<desc>Dulce Maria é filha única de Gustavo e Tereza e tem 5 anos. Mas ao perder a mãe, passa a viver no colégio Doce Horizonte, internato religioso da zona rural, sem contato com o pai.
+ * Soap
+</desc>
+</programme>
+<programme start="20241210173000 +0000" stop="20241210183000 +0000" channel="SBTRJ">
+<title>Quando me Apaixono</title>
+<sub-title>Soap</sub-title>
+<desc>Renata, uma mulher apaixonada, se casa com Jerônimo, um homem obcecado por vingar a morte de seu irmão Rafael. Tudo fica mais complicado para Renata graças a sua madrasta e sua meia-irmã, que conspiram para atrapalhar o relacionamento deles.
+ * Soap
+</desc>
+</programme>
+<programme start="20241210183000 +0000" stop="20241210193000 +0000" channel="SBTRJ">
+<title>Fofocalizando</title>
+<sub-title>Newsmagazine</sub-title>
+<desc>Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.
+ * Newsmagazine
+</desc>
+</programme>
+<programme start="20241210193000 +0000" stop="20241210203000 +0000" channel="SBTRJ">
+<title>Meu Caminho É te Amar</title>
+<sub-title>Soap</sub-title>
+<desc>Guilherme, um caminhoneiro humilde e trabalhador, descobre que tem uma filha que foi dada para adoção. Quando ele descobre que Isabella, a filha adotiva de Daniela, é sua filha biológica, suas vidas se entrelaçam para sempre.
+ * Soap
+</desc>
+</programme>
+<programme start="20241210203000 +0000" stop="20241210213000 +0000" channel="SBTRJ">
+<title>Tá na Hora</title>
+<sub-title>News</sub-title>
+<desc>Com foco em prestação de serviço e informações úteis, repórteres por todo o Brasil trazem as notícias representando o povo na TV. Colunistas abordam temas relevantes e trazem a voz da população.
+ * News
+</desc>
+</programme>
+<programme start="20241210213000 +0000" stop="20241210224500 +0000" channel="SBTRJ">
+<title>Tá na Hora Rio</title>
+<sub-title>News</sub-title>
+<desc>Com foco em prestação de serviço e informações úteis, repórteres no Rio de Janeiro e região trazem as notícias representando o povo na TV. Colunistas abordam temas relevantes e trazem a voz da população.
+ * News
+</desc>
+</programme>
+<programme start="20241210224500 +0000" stop="20241210234500 +0000" channel="SBTRJ">
+<title>SBT Brasil</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos.
+ * News
+</desc>
+</programme>
+<programme start="20241210234500 +0000" stop="20241211003000 +0000" channel="SBTRJ">
+<title>A Caverna Encantada</title>
+<sub-title>Soap</sub-title>
+<desc>O médico e missionário Paulo recebe uma missão perigosa e, para cumpri-la, deixa a filha em um colégio interno no interior de São Paulo. Esperando uma visita do pai, Anna embarca em uma jornada própria e acaba descobrindo muito sobre seu passado.
+ * Soap
+</desc>
+</programme>
+<programme start="20241211003000 +0000" stop="20241211010000 +0000" channel="SBTRJ">
+<title>As Aventuras de Poliana</title>
+<sub-title>Soap</sub-title>
+<desc>Poliana é uma menina amorosa que fica sozinha no mundo após a morte de seu pai. Uma assistente social a envia para a casa de uma tia distante, uma matriarca autoritária.
+ * Soap
+</desc>
+</programme>
+<programme start="20241211010000 +0000" stop="20241211020000 +0000" channel="SBTRJ">
+<title>Programa do Ratinho</title>
+<sub-title>Variety</sub-title>
+<desc>O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o "Jornal Rational", "Gol Show" e "Dez ou Mil", entre outros.
+ * Variety
+</desc>
+</programme>
+<programme start="20241211020000 +0000" stop="20241211034500 +0000" channel="SBTRJ">
+<title>Filme</title>
+<sub-title>Variety</sub-title>
+<desc>Acompanhe uma produção cinematográfica.
+ * Variety
+</desc>
+</programme>
+<programme start="20241211034500 +0000" stop="20241211043000 +0000" channel="SBTRJ">
+<title>The Noite com Danilo Gentili</title>
+<sub-title>Talk</sub-title>
+<desc>Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia.
+ * Talk
+</desc>
+</programme>
+<programme start="20241211043000 +0000" stop="20241211050000 +0000" channel="SBTRJ">
+<title>Operação Mesquita</title>
+<sub-title>Entertainment</sub-title>
+<desc>Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas.
+ * Entertainment
+</desc>
+</programme>
+<programme start="20241211050000 +0000" stop="20241211054500 +0000" channel="SBTRJ">
+<title>SBT PodNight</title>
+<sub-title>Talk</sub-title>
+<desc>Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais.
+ * Talk
+</desc>
+</programme>
+<programme start="20241211054500 +0000" stop="20241211090000 +0000" channel="SBTRJ">
+<title>SBT News</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe a cobertura dos assuntos mais relevantes sobre política, economia e justiça na madrugada, em uma experiência multiplataforma que une o digital à televisão e que traz correspondentes de locais onde o mundo já acordou.
+ * News
+</desc>
+</programme>
+<programme start="20241211090000 +0000" stop="20241211120000 +0000" channel="SBTRJ">
+<title>Primeiro Impacto</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano através de análises e opiniões de colunistas.
+ * News
+</desc>
+</programme>
+<programme start="20241211120000 +0000" stop="20241211140000 +0000" channel="SBTRJ">
+<title>Chega Mais</title>
+<sub-title>Entertainment</sub-title>
+<desc>O programa aborda assuntos diversos como comportamento, moda, arte, cultura, beleza, economia, esportes, música e tudo o que as pessoas precisam e querem saber de forma leve e divertida.
+ * Entertainment
+</desc>
+</programme>
+<programme start="20241211140000 +0000" stop="20241211141500 +0000" channel="SBTRJ">
+<title>Chega Mais Notícias</title>
+<sub-title>Variety</sub-title>
+<desc>Matérias e reportagens sobre temas do cotidiano, prestação de serviços, comportamento, saúde, estilo de vida, mundo dos pets, cultura e gastronomia, da região de São Paulo.
+ * Variety
+</desc>
+</programme>
+<programme start="20241211141500 +0000" stop="20241211161500 +0000" channel="SBTRJ">
+<title>SBT Rio</title>
+<sub-title>News</sub-title>
+<desc>Confira as principais informações do dia. Prestando serviço para a população e mostrando os problemas e as qualidades do estado, o programa é um aliado do telespectador.
+ * News
+</desc>
+</programme>
+<programme start="20241211161500 +0000" stop="20241211164500 +0000" channel="SBTRJ">
+<title>SBT Esporte Rio</title>
+<desc>Acompanhe tudo sobre o futebol carioca, com comentários diários sobre os principais clubes do Rio de Janeiro. Além do futebol, que é o tema principal, outros esportes também são abordados.
+</desc>
+</programme>
+<programme start="20241211164500 +0000" stop="20241211173000 +0000" channel="SBTRJ">
+<title>Carinha de Anjo</title>
+<sub-title>Soap</sub-title>
+<desc>Dulce Maria é filha única de Gustavo e Tereza e tem 5 anos. Mas ao perder a mãe, passa a viver no colégio Doce Horizonte, internato religioso da zona rural, sem contato com o pai.
+ * Soap
+</desc>
+</programme>
+<programme start="20241211173000 +0000" stop="20241211183000 +0000" channel="SBTRJ">
+<title>Quando me Apaixono</title>
+<sub-title>Soap</sub-title>
+<desc>Renata, uma mulher apaixonada, se casa com Jerônimo, um homem obcecado por vingar a morte de seu irmão Rafael. Tudo fica mais complicado para Renata graças a sua madrasta e sua meia-irmã, que conspiram para atrapalhar o relacionamento deles.
+ * Soap
+</desc>
+</programme>
+<programme start="20241211183000 +0000" stop="20241211193000 +0000" channel="SBTRJ">
+<title>Fofocalizando</title>
+<sub-title>Newsmagazine</sub-title>
+<desc>Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.
+ * Newsmagazine
+</desc>
+</programme>
+<programme start="20241211193000 +0000" stop="20241211203000 +0000" channel="SBTRJ">
+<title>Meu Caminho É te Amar</title>
+<sub-title>Soap</sub-title>
+<desc>Guilherme, um caminhoneiro humilde e trabalhador, descobre que tem uma filha que foi dada para adoção. Quando ele descobre que Isabella, a filha adotiva de Daniela, é sua filha biológica, suas vidas se entrelaçam para sempre.
+ * Soap
+</desc>
+</programme>
+<programme start="20241211203000 +0000" stop="20241211213000 +0000" channel="SBTRJ">
+<title>Tá na Hora</title>
+<sub-title>News</sub-title>
+<desc>Com foco em prestação de serviço e informações úteis, repórteres por todo o Brasil trazem as notícias representando o povo na TV. Colunistas abordam temas relevantes e trazem a voz da população.
+ * News
+</desc>
+</programme>
+<programme start="20241211213000 +0000" stop="20241211224500 +0000" channel="SBTRJ">
+<title>Tá na Hora Rio</title>
+<sub-title>News</sub-title>
+<desc>Com foco em prestação de serviço e informações úteis, repórteres no Rio de Janeiro e região trazem as notícias representando o povo na TV. Colunistas abordam temas relevantes e trazem a voz da população.
+ * News
+</desc>
+</programme>
+<programme start="20241211224500 +0000" stop="20241211234500 +0000" channel="SBTRJ">
+<title>SBT Brasil</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos.
+ * News
+</desc>
+</programme>
+<programme start="20241211234500 +0000" stop="20241212003000 +0000" channel="SBTRJ">
+<title>A Caverna Encantada</title>
+<sub-title>Soap</sub-title>
+<desc>O médico e missionário Paulo recebe uma missão perigosa e, para cumpri-la, deixa a filha em um colégio interno no interior de São Paulo. Esperando uma visita do pai, Anna embarca em uma jornada própria e acaba descobrindo muito sobre seu passado.
+ * Soap
+</desc>
+</programme>
+<programme start="20241212003000 +0000" stop="20241212011500 +0000" channel="SBTRJ">
+<title>Programa do Ratinho</title>
+<sub-title>Variety</sub-title>
+<desc>O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o "Jornal Rational", "Gol Show" e "Dez ou Mil", entre outros.
+ * Variety
+</desc>
+</programme>
+<programme start="20241212011500 +0000" stop="20241212024500 +0000" channel="SBTRJ">
+<title>Programa Raul Gil</title>
+<sub-title>Variety</sub-title>
+<desc>Raul Gil apresenta um programa de auditório com novos quadros, muita irreverência e o tradicional bom-humor de quase 55 anos de TV, além de uma banda ao vivo e um cenário mais arrojado.
+ * Variety
+</desc>
+</programme>
+<programme start="20241212024500 +0000" stop="20241212033000 +0000" channel="SBTRJ">
+<title>The Noite com Danilo Gentili</title>
+<sub-title>Talk</sub-title>
+<desc>Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia.
+ * Talk
+</desc>
+</programme>
+<programme start="20241212033000 +0000" stop="20241212040000 +0000" channel="SBTRJ">
+<title>Operação Mesquita</title>
+<sub-title>Entertainment</sub-title>
+<desc>Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas.
+ * Entertainment
+</desc>
+</programme>
+<programme start="20241212040000 +0000" stop="20241212044500 +0000" channel="SBTRJ">
+<title>SBT PodNight</title>
+<sub-title>Talk</sub-title>
+<desc>Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais.
+ * Talk
+</desc>
+</programme>
+<programme start="20241212044500 +0000" stop="20241212090000 +0000" channel="SBTRJ">
+<title>SBT News</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe a cobertura dos assuntos mais relevantes sobre política, economia e justiça na madrugada, em uma experiência multiplataforma que une o digital à televisão e que traz correspondentes de locais onde o mundo já acordou.
+ * News
+</desc>
+</programme>
+<programme start="20241212090000 +0000" stop="20241212120000 +0000" channel="SBTRJ">
+<title>Primeiro Impacto</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano através de análises e opiniões de colunistas.
+ * News
+</desc>
+</programme>
+<programme start="20241212120000 +0000" stop="20241212140000 +0000" channel="SBTRJ">
+<title>Chega Mais</title>
+<sub-title>Entertainment</sub-title>
+<desc>O programa aborda assuntos diversos como comportamento, moda, arte, cultura, beleza, economia, esportes, música e tudo o que as pessoas precisam e querem saber de forma leve e divertida.
+ * Entertainment
+</desc>
+</programme>
+<programme start="20241212140000 +0000" stop="20241212141500 +0000" channel="SBTRJ">
+<title>Chega Mais Notícias</title>
+<sub-title>Variety</sub-title>
+<desc>Matérias e reportagens sobre temas do cotidiano, prestação de serviços, comportamento, saúde, estilo de vida, mundo dos pets, cultura e gastronomia, da região de São Paulo.
+ * Variety
+</desc>
+</programme>
+<programme start="20241212141500 +0000" stop="20241212161500 +0000" channel="SBTRJ">
+<title>SBT Rio</title>
+<sub-title>News</sub-title>
+<desc>Confira as principais informações do dia. Prestando serviço para a população e mostrando os problemas e as qualidades do estado, o programa é um aliado do telespectador.
+ * News
+</desc>
+</programme>
+<programme start="20241212161500 +0000" stop="20241212164500 +0000" channel="SBTRJ">
+<title>SBT Esporte Rio</title>
+<desc>Acompanhe tudo sobre o futebol carioca, com comentários diários sobre os principais clubes do Rio de Janeiro. Além do futebol, que é o tema principal, outros esportes também são abordados.
+</desc>
+</programme>
+<programme start="20241212164500 +0000" stop="20241212173000 +0000" channel="SBTRJ">
+<title>Carinha de Anjo</title>
+<sub-title>Soap</sub-title>
+<desc>Dulce Maria é filha única de Gustavo e Tereza e tem 5 anos. Mas ao perder a mãe, passa a viver no colégio Doce Horizonte, internato religioso da zona rural, sem contato com o pai.
+ * Soap
+</desc>
+</programme>
+<programme start="20241212173000 +0000" stop="20241212183000 +0000" channel="SBTRJ">
+<title>Quando me Apaixono</title>
+<sub-title>Soap</sub-title>
+<desc>Renata, uma mulher apaixonada, se casa com Jerônimo, um homem obcecado por vingar a morte de seu irmão Rafael. Tudo fica mais complicado para Renata graças a sua madrasta e sua meia-irmã, que conspiram para atrapalhar o relacionamento deles.
+ * Soap
+</desc>
+</programme>
+<programme start="20241212183000 +0000" stop="20241212193000 +0000" channel="SBTRJ">
+<title>Fofocalizando</title>
+<sub-title>Newsmagazine</sub-title>
+<desc>Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.
+ * Newsmagazine
+</desc>
+</programme>
+<programme start="20241212193000 +0000" stop="20241212203000 +0000" channel="SBTRJ">
+<title>Meu Caminho É te Amar</title>
+<sub-title>Soap</sub-title>
+<desc>Guilherme, um caminhoneiro humilde e trabalhador, descobre que tem uma filha que foi dada para adoção. Quando ele descobre que Isabella, a filha adotiva de Daniela, é sua filha biológica, suas vidas se entrelaçam para sempre.
+ * Soap
+</desc>
+</programme>
+<programme start="20241212203000 +0000" stop="20241212213000 +0000" channel="SBTRJ">
+<title>Tá na Hora</title>
+<sub-title>News</sub-title>
+<desc>Com foco em prestação de serviço e informações úteis, repórteres por todo o Brasil trazem as notícias representando o povo na TV. Colunistas abordam temas relevantes e trazem a voz da população.
+ * News
+</desc>
+</programme>
+<programme start="20241212213000 +0000" stop="20241212224500 +0000" channel="SBTRJ">
+<title>Tá na Hora Rio</title>
+<sub-title>News</sub-title>
+<desc>Com foco em prestação de serviço e informações úteis, repórteres no Rio de Janeiro e região trazem as notícias representando o povo na TV. Colunistas abordam temas relevantes e trazem a voz da população.
+ * News
+</desc>
+</programme>
+<programme start="20241212224500 +0000" stop="20241212234500 +0000" channel="SBTRJ">
+<title>SBT Brasil</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos.
+ * News
+</desc>
+</programme>
+<programme start="20241212234500 +0000" stop="20241213003000 +0000" channel="SBTRJ">
+<title>A Caverna Encantada</title>
+<sub-title>Soap</sub-title>
+<desc>O médico e missionário Paulo recebe uma missão perigosa e, para cumpri-la, deixa a filha em um colégio interno no interior de São Paulo. Esperando uma visita do pai, Anna embarca em uma jornada própria e acaba descobrindo muito sobre seu passado.
+ * Soap
+</desc>
+</programme>
+<programme start="20241213003000 +0000" stop="20241213010000 +0000" channel="SBTRJ">
+<title>As Aventuras de Poliana</title>
+<sub-title>Soap</sub-title>
+<desc>Poliana é uma menina amorosa que fica sozinha no mundo após a morte de seu pai. Uma assistente social a envia para a casa de uma tia distante, uma matriarca autoritária.
+ * Soap
+</desc>
+</programme>
+<programme start="20241213010000 +0000" stop="20241213020000 +0000" channel="SBTRJ">
+<title>Programa do Ratinho</title>
+<sub-title>Variety</sub-title>
+<desc>O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o "Jornal Rational", "Gol Show" e "Dez ou Mil", entre outros.
+ * Variety
+</desc>
+</programme>
+<programme start="20241213020000 +0000" stop="20241213033000 +0000" channel="SBTRJ">
+<title>A Praça É Nossa</title>
+<sub-title>Comedy</sub-title>
+<desc>Carlos Alberto de Nóbrega comanda a praça mais irreverente e, em seu famoso banco, recebe os mais divertidos humoristas.
+ * Comedy
+</desc>
+</programme>
+<programme start="20241213033000 +0000" stop="20241213043000 +0000" channel="SBTRJ">
+<title>The Noite com Danilo Gentili</title>
+<sub-title>Talk</sub-title>
+<desc>Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia.
+ * Talk
+</desc>
+</programme>
+<programme start="20241213043000 +0000" stop="20241213050000 +0000" channel="SBTRJ">
+<title>Operação Mesquita</title>
+<sub-title>Entertainment</sub-title>
+<desc>Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas.
+ * Entertainment
+</desc>
+</programme>
+<programme start="20241213050000 +0000" stop="20241213054500 +0000" channel="SBTRJ">
+<title>SBT PodNight</title>
+<sub-title>Talk</sub-title>
+<desc>Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais.
+ * Talk
+</desc>
+</programme>
+<programme start="20241213054500 +0000" stop="20241213090000 +0000" channel="SBTRJ">
+<title>SBT News</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe a cobertura dos assuntos mais relevantes sobre política, economia e justiça na madrugada, em uma experiência multiplataforma que une o digital à televisão e que traz correspondentes de locais onde o mundo já acordou.
+ * News
+</desc>
+</programme>
+<programme start="20241213090000 +0000" stop="20241213120000 +0000" channel="SBTRJ">
+<title>Primeiro Impacto</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano através de análises e opiniões de colunistas.
+ * News
+</desc>
+</programme>
+<programme start="20241213120000 +0000" stop="20241213140000 +0000" channel="SBTRJ">
+<title>Chega Mais</title>
+<sub-title>Entertainment</sub-title>
+<desc>O programa aborda assuntos diversos como comportamento, moda, arte, cultura, beleza, economia, esportes, música e tudo o que as pessoas precisam e querem saber de forma leve e divertida.
+ * Entertainment
+</desc>
+</programme>
+<programme start="20241213140000 +0000" stop="20241213141500 +0000" channel="SBTRJ">
+<title>Chega Mais Notícias</title>
+<sub-title>Variety</sub-title>
+<desc>Matérias e reportagens sobre temas do cotidiano, prestação de serviços, comportamento, saúde, estilo de vida, mundo dos pets, cultura e gastronomia, da região de São Paulo.
+ * Variety
+</desc>
+</programme>
+<programme start="20241213141500 +0000" stop="20241213161500 +0000" channel="SBTRJ">
+<title>SBT Rio</title>
+<sub-title>News</sub-title>
+<desc>Confira as principais informações do dia. Prestando serviço para a população e mostrando os problemas e as qualidades do estado, o programa é um aliado do telespectador.
+ * News
+</desc>
+</programme>
+<programme start="20241213161500 +0000" stop="20241213164500 +0000" channel="SBTRJ">
+<title>SBT Esporte Rio</title>
+<desc>Acompanhe tudo sobre o futebol carioca, com comentários diários sobre os principais clubes do Rio de Janeiro. Além do futebol, que é o tema principal, outros esportes também são abordados.
+</desc>
+</programme>
+<programme start="20241213164500 +0000" stop="20241213173000 +0000" channel="SBTRJ">
+<title>Carinha de Anjo</title>
+<sub-title>Soap</sub-title>
+<desc>Dulce Maria é filha única de Gustavo e Tereza e tem 5 anos. Mas ao perder a mãe, passa a viver no colégio Doce Horizonte, internato religioso da zona rural, sem contato com o pai.
+ * Soap
+</desc>
+</programme>
+<programme start="20241213173000 +0000" stop="20241213183000 +0000" channel="SBTRJ">
+<title>Quando me Apaixono</title>
+<sub-title>Soap</sub-title>
+<desc>Renata, uma mulher apaixonada, se casa com Jerônimo, um homem obcecado por vingar a morte de seu irmão Rafael. Tudo fica mais complicado para Renata graças a sua madrasta e sua meia-irmã, que conspiram para atrapalhar o relacionamento deles.
+ * Soap
+</desc>
+</programme>
+<programme start="20241213183000 +0000" stop="20241213193000 +0000" channel="SBTRJ">
+<title>Fofocalizando</title>
+<sub-title>Newsmagazine</sub-title>
+<desc>Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.
+ * Newsmagazine
+</desc>
+</programme>
+<programme start="20241213193000 +0000" stop="20241213203000 +0000" channel="SBTRJ">
+<title>Meu Caminho É te Amar</title>
+<sub-title>Soap</sub-title>
+<desc>Guilherme, um caminhoneiro humilde e trabalhador, descobre que tem uma filha que foi dada para adoção. Quando ele descobre que Isabella, a filha adotiva de Daniela, é sua filha biológica, suas vidas se entrelaçam para sempre.
+ * Soap
+</desc>
+</programme>
+<programme start="20241213203000 +0000" stop="20241213213000 +0000" channel="SBTRJ">
+<title>Tá na Hora</title>
+<sub-title>News</sub-title>
+<desc>Com foco em prestação de serviço e informações úteis, repórteres por todo o Brasil trazem as notícias representando o povo na TV. Colunistas abordam temas relevantes e trazem a voz da população.
+ * News
+</desc>
+</programme>
+<programme start="20241213213000 +0000" stop="20241213224500 +0000" channel="SBTRJ">
+<title>Tá na Hora Rio</title>
+<sub-title>News</sub-title>
+<desc>Com foco em prestação de serviço e informações úteis, repórteres no Rio de Janeiro e região trazem as notícias representando o povo na TV. Colunistas abordam temas relevantes e trazem a voz da população.
+ * News
+</desc>
+</programme>
+<programme start="20241213224500 +0000" stop="20241213234500 +0000" channel="SBTRJ">
+<title>SBT Brasil</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos.
+ * News
+</desc>
+</programme>
+<programme start="20241213234500 +0000" stop="20241214003000 +0000" channel="SBTRJ">
+<title>A Caverna Encantada</title>
+<sub-title>Soap</sub-title>
+<desc>O médico e missionário Paulo recebe uma missão perigosa e, para cumpri-la, deixa a filha em um colégio interno no interior de São Paulo. Esperando uma visita do pai, Anna embarca em uma jornada própria e acaba descobrindo muito sobre seu passado.
+ * Soap
+</desc>
+</programme>
+<programme start="20241214003000 +0000" stop="20241214010000 +0000" channel="SBTRJ">
+<title>As Aventuras de Poliana</title>
+<sub-title>Soap</sub-title>
+<desc>Poliana é uma menina amorosa que fica sozinha no mundo após a morte de seu pai. Uma assistente social a envia para a casa de uma tia distante, uma matriarca autoritária.
+ * Soap
+</desc>
+</programme>
+<programme start="20241214010000 +0000" stop="20241214020000 +0000" channel="SBTRJ">
+<title>Programa do Ratinho</title>
+<sub-title>Variety</sub-title>
+<desc>O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o "Jornal Rational", "Gol Show" e "Dez ou Mil", entre outros.
+ * Variety
+</desc>
+</programme>
+<programme start="20241214020000 +0000" stop="20241214033000 +0000" channel="SBTRJ">
+<title>É Tudo Nosso!</title>
+<sub-title>Variety</sub-title>
+<desc>Ao som de Buchecha e Atitude 67, programa estreia quadro Puro Suco com Helen e exibe semifinal da competição de breaking. Muita diversão, ação e risada com o Match Forte, Mememorial, Fila da Fama, Apaga Esse Arquivo, Tô Púlpito e Fila da Gula.
+ * Variety
+</desc>
+</programme>
+<programme start="20241214033000 +0000" stop="20241214043000 +0000" channel="SBTRJ">
+<title>The Noite com Danilo Gentili</title>
+<sub-title>Talk</sub-title>
+<desc>Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia.
+ * Talk
+</desc>
+</programme>
+<programme start="20241214043000 +0000" stop="20241214050000 +0000" channel="SBTRJ">
+<title>Operação Mesquita</title>
+<sub-title>Entertainment</sub-title>
+<desc>Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas.
+ * Entertainment
+</desc>
+</programme>
+<programme start="20241214050000 +0000" stop="20241214054500 +0000" channel="SBTRJ">
+<title>SBT PodNight</title>
+<sub-title>Talk</sub-title>
+<desc>Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais.
+ * Talk
+</desc>
+</programme>
+<programme start="20241214054500 +0000" stop="20241214090000 +0000" channel="SBTRJ">
+<title>SBT News</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe a cobertura dos assuntos mais relevantes sobre política, economia e justiça na madrugada, em uma experiência multiplataforma que une o digital à televisão e que traz correspondentes de locais onde o mundo já acordou.
+ * News
+</desc>
+</programme>
+<programme start="20241214090000 +0000" stop="20241214141500 +0000" channel="SBTRJ">
+<title>Sábado Animado</title>
+<sub-title>Children</sub-title>
+<desc>O programa apresenta desenhos animados, atrações e jogos divertidos que contam com a participação do público de casa.
+ * Children
+</desc>
+</programme>
+<programme start="20241214141500 +0000" stop="20241214150000 +0000" channel="SBTRJ">
+<title>Luccas Toon</title>
+<sub-title>Educational</sub-title>
+<desc>Episódios mais divertidos da franquia Luccas Toon inspiram crianças e adultos a soltarem a imaginação e se aventurarem em um mundo cheio de histórias animadas e valiosos aprendizados.
+ * Educational
+</desc>
+</programme>
+<programme start="20241214150000 +0000" stop="20241214171500 +0000" channel="SBTRJ">
+<title>Programa Raul Gil</title>
+<sub-title>Variety</sub-title>
+<desc>Raul Gil apresenta um programa de auditório com novos quadros, muita irreverência e o tradicional bom-humor de quase 55 anos de TV, além de uma banda ao vivo e um cenário mais arrojado.
+ * Variety
+</desc>
+</programme>
+<programme start="20241214171500 +0000" stop="20241214191500 +0000" channel="SBTRJ">
+<title>Jequiti Live Show de Ofertas</title>
+<sub-title>Special</sub-title>
+<desc>Patricia Abravanel, Rebeca Abravanel e Celso Portiolli trazem muita diversão para toda a família, com competições, brincadeiras e convidados. Os espectadores também podem aproveitar descontos imperdíveis em uma variedade de produtos da Jequiti.
+ * Special
+</desc>
+</programme>
+<programme start="20241214191500 +0000" stop="20241214210000 +0000" channel="SBTRJ">
+<title>Filme</title>
+<sub-title>Variety</sub-title>
+<desc>Acompanhe uma produção cinematográfica.
+ * Variety
+</desc>
+</programme>
+<programme start="20241214210000 +0000" stop="20241214224500 +0000" channel="SBTRJ">
+<title>Circo do Tiru</title>
+<sub-title>Variety</sub-title>
+<desc>No quadro "Minha Casa, Minha Dívida", duas duplas se enfrentam em uma disputa cheia de surpresas. O "Barbeiro de Sevilla" mostra suas habilidades, enquanto o "Mini Village People" resgata a nostalgia com músicas que marcaram época.
+ * Variety
+</desc>
+</programme>
+<programme start="20241214224500 +0000" stop="20241214234500 +0000" channel="SBTRJ">
+<title>SBT Brasil</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos.
+ * News
+</desc>
+</programme>
+<programme start="20241214234500 +0000" stop="20241215011500 +0000" channel="SBTRJ">
+<title>Bake Off Brasil - Mão na Massa</title>
+<sub-title>Reality</sub-title>
+<desc>Confeiteiros amadores são submetidos a provas técnicas e criativas e precisam colocar a mão na massa para enfrentar os jurados especializados. A cada semana, um candidato é eliminado da competição.
+ * Reality
+</desc>
+</programme>
+<programme start="20241215011500 +0000" stop="20241215030000 +0000" channel="SBTRJ">
+<title>Sabadou com Virginia</title>
+<sub-title>Entertainment</sub-title>
+<desc>Convidados das mais diversas áreas chegam para encontro repletos de games, musicais, boas histórias e muita interação com a plateia e o público de casa.
+ * Entertainment
+</desc>
+</programme>
+<programme start="20241215030000 +0000" stop="20241215050000 +0000" channel="SBTRJ">
+<title>Notícias Impressionantes</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe uma série de vídeos curiosos da internet que aconteceram no Brasil e no mundo.
+ * News
+</desc>
+</programme>
+<programme start="20241215050000 +0000" stop="20241215090000 +0000" channel="SBTRJ">
+<title>SBT News</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe a cobertura dos assuntos mais relevantes sobre política, economia e justiça na madrugada, em uma experiência multiplataforma que une o digital à televisão e que traz correspondentes de locais onde o mundo já acordou.
+ * News
+</desc>
+</programme>
+<programme start="20241215090000 +0000" stop="20241215100000 +0000" channel="SBTRJ">
+<title>SBT News</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe a cobertura dos assuntos mais relevantes sobre política, economia e justiça na madrugada, em uma experiência multiplataforma que une o digital à televisão e que traz correspondentes de locais onde o mundo já acordou.
+ * News
+</desc>
+</programme>
+<programme start="20241215100000 +0000" stop="20241215103000 +0000" channel="SBTRJ">
+<title>Pé na Estrada</title>
+<sub-title>Travel</sub-title>
+<desc>Acompanhe o melhor do turismo paranaense, com aventuras, esportes radicais e locais encantadores.
+ * Travel
+</desc>
+</programme>
+<programme start="20241215103000 +0000" stop="20241215110000 +0000" channel="SBTRJ">
+<title>SBT Agro</title>
+<sub-title>Agriculture</sub-title>
+<desc>Notícias, tendências, reportagens especiais e divulgação de feiras e eventos do mundo agro.
+ * Agriculture
+</desc>
+</programme>
+<programme start="20241215110000 +0000" stop="20241215120000 +0000" channel="SBTRJ">
+<title>SBT Sports</title>
+<desc>Veja o que de melhor aconteceu na semana nas mais diversas e principais competições esportivas do Brasil e do mundo com reportagens e entrevistas exclusivas.
+</desc>
+</programme>
+<programme start="20241215120000 +0000" stop="20241215130000 +0000" channel="SBTRJ">
+<title>Notícias Impressionantes</title>
+<sub-title>News</sub-title>
+<desc>Acompanhe uma série de vídeos curiosos da internet que aconteceram no Brasil e no mundo.
+ * News
+</desc>
+</programme>
+<programme start="20241215130000 +0000" stop="20241215140000 +0000" channel="SBTRJ">
+<title>Cariocou</title>
+<sub-title>Entertainment</sub-title>
+<desc>Explore o melhor da cidade do Rio de Janeiro.
+ * Entertainment
+</desc>
+</programme>
+<programme start="20241215140000 +0000" stop="20241215141500 +0000" channel="SBTRJ">
+<title>Sorteio da Tele Sena</title>
+<sub-title>Game show</sub-title>
+<desc>A Tele Sena é um título de capitalização que dá prêmios em dinheiro. Os consumidores podem adquirir sua Tele Sena em casas lotéricas ou agências dos correios.
+ * Game show
+</desc>
+</programme>
+<programme start="20241215141500 +0000" stop="20241215211500 +0000" channel="SBTRJ">
+<title>Domingo Legal</title>
+<sub-title>Variety</sub-title>
+<desc>Programa de auditório com músicas, celebridades, notícias e reportagens, comandado pelo apresentador Celso Portiolli.
+ * Variety
+</desc>
+</programme>
+<programme start="20241215211500 +0000" stop="20241215220000 +0000" channel="SBTRJ">
+<title>Roda a Roda Jequiti</title>
+<sub-title>Game show</sub-title>
+<desc>Um programa único que possibilita aos participantes concorrerem a prêmios especiais em barras de ouro.
+ * Game show
+</desc>
+</programme>
+<programme start="20241215220000 +0000" stop="20241216030000 +0000" channel="SBTRJ">
+<title>Programa Sílvio Santos com Patrícia Abravanel</title>
+<sub-title>Variety</sub-title>
+<desc>O "Namoro na TV" ganha uma edição especial: uma celebridade busca um pretendente. Patricia Abravanel se veste de Paquita para uma apresentação musical. Victor Sarro se disfarça de segurança e prega uma peça nas caravanas do programa.
+ * Variety
+</desc>
+</programme>
+<programme start="20241216030000 +0000" stop="20241216050000 +0000" channel="SBTRJ">
+<title>Brooklyn Nine-Nine - Lei &amp; Desordem</title>
+<sub-title>Sitcom</sub-title>
+<desc>Jake Peralta é um detetive brilhante e ao mesmo tempo imaturo, que nunca precisou se preocupar em respeitar as regras. Tudo muda quando um capitão exigente assume o comando de seu esquadrão e Jake deve aprender a trabalhar em equipe.
+ * Sitcom
+</desc>
+</programme>
