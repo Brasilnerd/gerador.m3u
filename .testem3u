@@ -14,7 +14,7 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1734413648.m3u8
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/jovempan.png" group-title="NOTÍCIAS", JOVEM PAN NEWS
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/jovempan.png" group-title="NOTÍCIAS", JOVEM PAN NEWS
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
 
 
