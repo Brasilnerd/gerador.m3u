@@ -54,12 +54,12 @@ https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 
 
 
-#EXTINF:-1 tvg-id="RedeTV! HD" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/redetv.png" group-title="ABERTO",REDETV! SP HD
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/redetv.png" group-title="ABERTO",REDETV! SP HD
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
 
 
 
-#EXTINF:-1 tvg-id="RedeTV! HD" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/redetv.png" group-title="ABERTO",REDETV! PARANÁ HD
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/redetv.png" group-title="ABERTO",REDETV! PARANÁ HD
 https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w994469238.m3u8
 
 
