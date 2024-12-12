@@ -123,7 +123,7 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1772209437.
 
 
 
-#EXTINF:-1, TV BRASIL
+#EXTINF:-1 tvg-id="TV Brasil HD" tvg-name="TV Brasil HD" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/TVBrasil.png" group-title="ABERTO", TV BRASIL
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 
 
