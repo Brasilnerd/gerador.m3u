@@ -116,7 +116,7 @@ https://tv01.zas.media:1936/rtntv/rtntv/chunklist_w720423657.m3u8
 
 
 
-#EXTINF:-1, tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/CULTURA.png" group-title="ABERTO",TV CULTURA HD
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/CULTURA.png" group-title="ABERTO",TV CULTURA HD
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1772209437.m3u8
 
 
