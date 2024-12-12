@@ -34,6 +34,9 @@ http://201.159.95.110:25461/live/site/site/666.m3u8
 https://cr7v.short.gy/Manotv/CnbcBRsa/Index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="NOTÍCIAS",AVANÇA BRASIL
+https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="NEW Brasil" tvg-name="NEW Brasil" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG_1732044251823.png" group-title="NOTÍCIAS", NEW BRASIL
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
