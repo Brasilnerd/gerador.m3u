@@ -30,8 +30,19 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w93080412.m3u8
 http://201.159.95.110:25461/live/site/site/666.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL
-https://cr7v.short.gy/Manotv/CnbcBRsa/Index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL FHD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/295477.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL HD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/295478.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL SD
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/295479.ts
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL 4K
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/295480.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="NOTÍCIAS",AVANÇA BRASIL
