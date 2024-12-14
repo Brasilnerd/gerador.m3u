@@ -31,7 +31,8 @@ http://201.159.95.110:25461/live/site/site/666.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL FHD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/295477.ts
+https://cr7v.short.gy/manotv/CnbcBRsa/Index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/295478.ts
@@ -41,7 +42,8 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/295479.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL 4K
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/295480.ts
+https://cr7v.short.gy/manotv/CnbcBRsa/Index.m3u8
+
 
 
 
@@ -60,7 +62,7 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BANDRJ" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/BAND.png" group-title="ABERTO", BAND
+#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BANDRJ" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/BAND.png" group-title="ABERTO", BAND RJ
 http://170.80.69.8:8000/play/a0dl/index.m3u8
 
 
