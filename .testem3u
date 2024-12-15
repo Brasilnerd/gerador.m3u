@@ -86,11 +86,11 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w994469238.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/tvdiario.png" group-title="ABERTO",TV DIÁRIO
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/tvdiario.png" group-title="ABERTO",TV DIÁRIO HD
 http://dns.6tp.xyz/live/luizneto/997143156/2751880.m3u8
 
 
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/tvdiario.png" group-title="ABERTO",TV DIÁRIO 2
+#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/tvdiario.png" group-title="ABERTO",TV DIÁRIO SD
 http://supersonictv.live:8080/329474/903964/85112
 
 
