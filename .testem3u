@@ -30,9 +30,6 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w93080412.m3u8
 http://201.159.95.110:25461/live/site/site/666.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL FHD
-https://cr7v.short.gy/manotv/CnbcBRsa/Index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL HD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/295478.ts
@@ -308,12 +305,15 @@ https://tv01.zas.media:1936/rftv/rftv/chunklist_w1141530463.m3u8
 https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 
 
+
 #EXTINF:-1, TV MEIO
-https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w125450168.m3u8
+https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w659769140.m3u8
+
 
 
 #EXTINF:-1, TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w517527519.m3u8
+
 
 
 #EXTINF:-1, ANIMAX 
