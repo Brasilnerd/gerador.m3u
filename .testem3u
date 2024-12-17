@@ -72,7 +72,11 @@ https://stream1.freetv.fun/globo-rj-1.ctv
 
 
 #EXTINF:-1 tvg-id="SBTSP" tvg-name="SBTSP" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/sbt.png" group-title="ABERTO",SBT RJ
-https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+http://supersonictv.live:8080/329474/903964/85278
+
+
+#EXTINF:-1 tvg-id="SBTSP" tvg-name="SBTSP" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/sbt.png" group-title="ABERTO",SBT SP
+https://cdn-3.nxplay.com.br/SBT_HD_TK/tracks-v1a1/mono.m3u8
 
 
 
@@ -128,6 +132,15 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1772209437.
 
 #EXTINF:-1 tvg-id="TV Brasil HD" tvg-name="TV Brasil HD" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/TVBrasil.png" group-title="ABERTO", TV BRASIL
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qTrjjgP.png" group-title="",POLISHOP TV
+https://livestream.zazerconer.workers.dev/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wdltPI0.png" group-title="",TV DO CARRO
+https://tv02.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 
 
 
@@ -201,9 +214,12 @@ https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
 https://video01.kshost.com.br:4443/grezzana1839/grezzana1839/chunklist_w1173246845.m3u8
 
 
-#EXTINF:-1, TV SONATA
+#EXTINF:-1, TV SONATA SD
 https://stmv1.video.cloudstream.com.br/tiago/tiago/chunklist_w1892072132.m3u8
 
+
+#EXTINF:-1, TV SONATA HD
+https://video04.logicahost.com.br/isonata/isonata/chunklist_w640139343.m3u8
 
 
 #EXTINF:-1, JUST FOR LAUGHS GAGS
@@ -253,8 +269,6 @@ https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w2101897625.m3u8
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w1728916551.m3u8
 
 
-#EXTINF:-1, TV CLASSICOS
-https://stmv1.srvif.com/canal29/canal29/chunklist_w1518725986.m3u8
 
 
 
@@ -263,8 +277,10 @@ https://stmv1.srvif.com/canal29/canal29/chunklist_w587177497.m3u8
 
 
 
-#EXTINF:-1, IMPERIAL TV
-https://acesso.ecast.site:3630/live/imperiallive.m3u8
+
+#EXTINF:-1, REDE UTV BRASIL
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/chunklist_w2132514869.m3u8
+
 
 
 
