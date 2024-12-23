@@ -6,11 +6,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/CNN.png" group-title="NOTÍCIAS", CNN BRASIL
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1734413648.m3u8
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w616109811.m3u8
+
 
 
 #EXTINF:-1 tvg-id="CNN Brasil Money" tvg-name="CNN Brasil Money" tvg-logo="https://imgur.com/3rHuAWH.png" group-title="NOTÍCIAS",CNN BRASIL MONEY
-https://ythls.armelin.one/channel/UCqfm5IQhpMlfeAWMmVL_uNg.m3u8
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w296915124.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/uol.png" group-title="NOTÍCIAS", CANAL UOL
@@ -59,8 +61,8 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BANDRJ" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/BAND.png" group-title="ABERTO", BAND RJ
-http://170.80.69.8:8000/play/a0dl/index.m3u8
+#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BANDRJ" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/BAND.png" group-title="ABERTO", BAND SP
+http://15.235.50.115:14522
 
 
 #EXTINF:-1 tvg-id="RECORDRJ" tvg-name="RECORDRJ" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/recordtv.png" group-title="ABERTO", RECORD RJ
@@ -193,7 +195,8 @@ https://isaocorp.cloudecast.com/astraltv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/tvpadrecicero.png" group-title="", TV PADRE CICERO
-https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w389327731.m3u8
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w1639801320.m3u8
+
 
 
 
@@ -211,12 +214,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungb
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
 
 
+
 #EXTINF:-1, AG TV
 https://video01.kshost.com.br:4443/grezzana1839/grezzana1839/chunklist_w1173246845.m3u8
 
 
-#EXTINF:-1, TV SONATA SD
-https://stmv1.video.cloudstream.com.br/tiago/tiago/chunklist_w1892072132.m3u8
 
 
 #EXTINF:-1, TV SONATA HD
@@ -243,6 +245,7 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w985163336.m3u8
 https://stmv1.srvif.com/movies1/movies1/chunklist_w1980831357.m3u8
 
 
+
 #EXTINF:-1, TV METROPOLE
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist720p.m3u8
 
@@ -259,7 +262,7 @@ https://stmv1.srvif.com/classiquew/classiquew/chunklist_w616831381.m3u8
 
 
 #EXTINF:-1, GOSPEL MOVIES TV
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w868945192.m3u8
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1799390708.m3u8
 
 
 
@@ -377,11 +380,11 @@ https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/c
 
 
 #EXTINF:-1, TV LITORAL
-https://srv3.zcast.com.br/saranet/saranet/chunklist_w1167263951.m3u8
+https://srv3.zcast.com.br/saranet/saranet/chunklist_w719600820.m3u8
 
 
 #EXTINF:-1, YPÊ TV
-https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+https://video01.logicahost.com.br/ypetv/ypetv/chunklist_w1803230608.m3u8
 
 
 #EXTINF:-1, FONTE TV
