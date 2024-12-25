@@ -34,15 +34,19 @@ http://201.159.95.110:25461/live/site/site/666.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL HD
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/295478.ts
+https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/295479.ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL 4K
-https://cr7v.short.gy/manotv/CnbcBRsa/Index.m3u8
+https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B1KhZs2.png" group-title="NOTÍCIAS", 4 POR 4 
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 
 
 
@@ -53,6 +57,13 @@ https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="NEW Brasil" tvg-name="NEW Brasil" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG_1732044251823.png" group-title="NOTÍCIAS", NEW BRASIL
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="Canal Gov" tvg-logo="https://imgur.com/9KwUxmX.png" group-title="NOTÍCIAS",CANAL GOV
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TV SENADO" tvg-name="TV SENADO" tvg-logo="https://i.imgur.com/duy6waL.png" group-title="NOTÍCIAS",TV SENADO HD
+https://stream1.freetv.fun/tv-senado-1.m3u8
 
 
 
