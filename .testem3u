@@ -63,6 +63,10 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stream1.freetv.fun/tv-senado-1.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/tyW3Ppf.png" group-title="NOTÍCIAS",BM&C NEWS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+
 
 ----------------------------------------------------------------- ABERTO ------------------------------------------------------------------------
 
@@ -103,6 +107,10 @@ https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/in
 https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w994469238.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/gov.png" group-title="ABERTO", CANAL GOV
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/tvdiario.png" group-title="ABERTO",TV DIÁRIO HD
 http://dns.6tp.xyz/live/luizneto/997143156/2751880.m3u8
@@ -130,12 +138,6 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1514533455.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/rtn.png" group-title="ABERTO",RTN TV SP
-https://tv01.zas.media:1936/rtntv/rtntv/chunklist_w720423657.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/CULTURA.png" group-title="ABERTO", TV CULTURA HD
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1772209437.m3u8
@@ -147,6 +149,26 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1772209437.
 #EXTINF:-1 tvg-id="TV Brasil HD" tvg-name="TV Brasil HD" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/TVBrasil.png" group-title="ABERTO", TV BRASIL
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
 
+
+
+#EXTINF:-1, TV PETROPOLIS
+https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/chunklist_w837155416.m3u8
+
+
+
+#EXTINF:-1, TV CNB
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w737115928.m3u8
+
+
+
+#EXTINF:-1, TV MAIS BRASIL
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w602316374.m3u8
+
+
+
+
+#EXTINF:-1, TV CNB
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w602316374.m3u8
 
 
 
