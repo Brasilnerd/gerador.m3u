@@ -38,6 +38,11 @@ http://201.159.95.110:25461/live/site/site/666.m3u8
 https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL HD
+https://video01.soultv.com.br/timesbrasil/timesbrasil/chunklist_w115909169.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Novo-grupo-de-midia-brasileiro-Times-Brasil-sera-lancado-com-conteudo-da-CNBC.png" group-title="NOTÍCIAS", TIMES BRASIL SD
 http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/295479.ts
 
@@ -74,7 +79,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f55
 
 
 #EXTINF:-1 tvg-id="BANDRJ" tvg-name="BANDRJ" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/BAND.png" group-title="ABERTO", BAND SP
-http://15.235.50.115:14522
+https://super-cdn.link/band/index.m3u8
 
 
 #EXTINF:-1 tvg-id="RECORDRJ" tvg-name="RECORDRJ" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/recordtv.png" group-title="ABERTO", RECORD RJ HD
@@ -108,13 +113,18 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w994469238.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/tvdiario.png" group-title="ABERTO",TV DIÁRIO HD
-http://dns.6tp.xyz/live/luizneto/997143156/2751880.m3u8
-
 
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/tvdiario.png" group-title="ABERTO",TV DIÁRIO SD
 http://supersonictv.live:8080/329474/903964/85112
 
+
+
+#EXTINF:-1, SABOR & ARTE
+https://cdn-3.nxplay.com.br/SABOR_E_ARTE/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="",CLASSIQUE TV SERIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 
 
@@ -186,10 +196,6 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_w725891560_b
 #EXTINF:-1, TV PLAN
 https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w1478353086.m3u8
 
-
-
-#EXTINF:-1, SABOR & ARTE
-https://cdn-3.nxplay.com.br/SABOR_E_ARTE/tracks-v2a1/mono.m3u8
 
 
 
@@ -283,9 +289,6 @@ https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1, CLASSIQUE WESTERN TV
-https://stmv1.srvif.com/classiquew/classiquew/chunklist_w616831381.m3u8
-
 
 #EXTINF:-1, GOSPEL MOVIES TV
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1799390708.m3u8
@@ -358,7 +361,7 @@ https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w65976914
 
 
 #EXTINF:-1, TV NAÇÃO
-https://strv.painelhub.online/lftv/lftv/chunklist_w2118641657.m3u8
+https://hubwatch.online/TVNacao/tracks-v1a1/mono.m3u8
 
 
 
@@ -393,7 +396,7 @@ http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 
 
 #EXTINF:-1 tvg-id="Rede Brasil HD" tvg-name="Rede Brasil HD" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/Marca_rede_brasil_rgb-color.png" group-title="", REDE BRASIL
-https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w682489330.m3u8
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1967293017.m3u8
 
 
 
