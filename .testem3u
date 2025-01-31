@@ -95,7 +95,8 @@ https://stream1.freetv.fun/globo-rj-1.ctv
 
 
 #EXTINF:-1 tvg-id="SBTSP" tvg-name="SBTSP" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/sbt.png" group-title="ABERTO",SBT RJ
-http://supersonictv.live:8080/899063/506943/85278
+https://d1jvs4svzaqp8n.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V2/c9e14d73-182f-44a0-8824-6895c78b691c/5.m3u8
+
 
 
 #EXTINF:-1 tvg-id="SBTSP" tvg-name="SBTSP" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/sbt.png" group-title="ABERTO",SBT SP
@@ -120,7 +121,7 @@ http://supersonictv.live:8080/329474/903964/85112
 
 
 #EXTINF:-1, SABOR & ARTE
-https://cdn-3.nxplay.com.br/SABOR_E_ARTE/tracks-v2a1/mono.m3u8
+http://45.235.0.78/TOONCAST-HD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="",CLASSIQUE TV SERIES
@@ -269,12 +270,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 
 
 #EXTINF:-1, RETRO CARTOON 
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w985163336.m3u8
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w298568046.m3u8
 
 
 
 #EXTINF:-1, TV CLASSICOS DO CINEMA
-https://stmv1.srvif.com/movies1/movies1/chunklist_w1980831357.m3u8
+https://stmv1.srvif.com/movies1/movies1/chunklist_w1050977595.m3u8
 
 
 
@@ -296,7 +297,7 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1799390708.m3u8
 
 
 #EXTINF:-1, TV JAPI
-https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w2101897625.m3u8
+  https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w2101897625.m3u8
 
 
 #EXTINF:-1, TOP MIX TV
@@ -419,7 +420,8 @@ https://srv3.zcast.com.br/saranet/saranet/chunklist_w719600820.m3u8
 
 
 #EXTINF:-1, YPÊ TV
-https://video01.logicahost.com.br/ypetv/ypetv/chunklist_w1803230608.m3u8
+https://video01.logicahost.com.br/ypetv/ypetv/chunklist_w796209624.m3u8
+
 
 
 #EXTINF:-1, FONTE TV
