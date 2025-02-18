@@ -86,16 +86,10 @@ https://super-cdn.link/band/index.m3u8
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/142
 
 
-#EXTINF:-1 tvg-id="RECORDRJ" tvg-name="RECORDRJ" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/recordtv.png" group-title="ABERTO", RECORD RJ FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/766
 
 
 #EXTINF:-1 tvg-id="GLOBORJ" tvg-name="GLOBORJ" tvg-logo="https://imgur.com/waZJG1M.png" group-title="ABERTO",GLOBORJ
-https://stream1.freetv.fun/globo-rj-1.ctv
-
-
-#EXTINF:-1 tvg-id="SBTSP" tvg-name="SBTSP" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/sbt.png" group-title="ABERTO",SBT RJ
-https://d1jvs4svzaqp8n.cloudfront.net/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V2/c9e14d73-182f-44a0-8824-6895c78b691c/5.m3u8
+https://super-cdn.link/globorj-globorio/tracks-v1a1/mono.m3u8
 
 
 
@@ -145,6 +139,12 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1514533455.m3u
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/CULTURA.png" group-title="ABERTO", TV CULTURA HD
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1772209437.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/CULTURA.png" group-title="ABERTO",TV CULTURA BRASIL 
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 
 
