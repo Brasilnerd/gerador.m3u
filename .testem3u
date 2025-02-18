@@ -116,10 +116,6 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w994469238.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/tvdiario.png" group-title="ABERTO",TV DIÁRIO SD
-http://supersonictv.live:8080/329474/903964/85112
-
-
 
 #EXTINF:-1, SABOR & ARTE
 http://45.235.0.78/TOONCAST-HD/index.m3u8
@@ -131,7 +127,7 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name="TV Gazeta HD" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="ABERTO",TV GAZETA HD
-https://stream1.freetv.fun/tv-gazeta-1.m3u8
+https://live-b.cf.dmcdn.net/sec2(urtrCfukEUS-Im6epSxyPhb_EXjebZ9M0T61fRKSWiPa_VutMtaE6A_QJi4tPKQOi9mhrCUTkDaIUSHs3bJ8tG7BNAlAvLbci5ERt5O4M2gNAkj1_7bsxX0CZq0FJ9rI)/dm/3/x8ttlxm/s/live-480.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/playtv.png" group-title="ABERTO", PLAY TV
@@ -182,7 +178,8 @@ https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w602316374.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wdltPI0.png" group-title="",TV DO CARRO
-https://srv4.zcast.com.br/autotv/autotv/chunklist_w1138592689.m3u8
+https://tv03.zas.media:1936/tvdocarro/tvdocarro/chunklist_w630471201.m3u8
+
 
 
 #EXTINF:-1, TV PARANA TURISMO
@@ -468,16 +465,49 @@ https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 
 
-#EXTINF:-1, FILMRISEFRRESERIES
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8
-
-
-#EXTINF:-1, URBAN MOVIES
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2kke3asn" group-title="URBAN TV",Urban Movies
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 
 
-#EXTINF:-1, URBAN DOCS
+#EXTINF:-1 tvg-logo="https://tinyurl.com/27qeqo6y" group-title="URBAN TV",Urban Travel
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2one8xqn" group-title="URBAN TV",Urban Drive
+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2l4rzxpn" group-title="URBAN TV",Urban Retro
+http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2jkvtw3g" group-title="URBAN TV",Urban Docs
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO MOVIES
+https://cdn-3.nxplay.com.br/HALLOMOVIES/tracks-v3a1/mono.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO CLASSIC
+https://cdn-3.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO MUSIC
+https://cdn-3.nxplay.com.br/HALLOMUSIC/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO SERIES
+https://cdn-3.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO ANIME
+https://cdn-4.nxplay.com.br/HALLOANIME/mono.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO DOC
+https://cdn-3.nxplay.com.br/HALLODOC/tracks-v1a1/mono.m3u8
 
 
 
