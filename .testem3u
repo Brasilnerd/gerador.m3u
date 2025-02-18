@@ -486,31 +486,6 @@ http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO MOVIES
-https://cdn-3.nxplay.com.br/HALLOMOVIES/tracks-v3a1/mono.m3u8
-
-
-#EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO CLASSIC
-https://cdn-3.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO MUSIC
-https://cdn-3.nxplay.com.br/HALLOMUSIC/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO SERIES
-https://cdn-3.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO ANIME
-https://cdn-4.nxplay.com.br/HALLOANIME/mono.m3u8
-
-
-#EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO DOC
-https://cdn-3.nxplay.com.br/HALLODOC/tracks-v1a1/mono.m3u8
-
-
-
 #EXTINF:-1, REDE UNIVERSO
 https://srv5.zcast.com.br/universotv/universotv/chunklist_w1055754540.m3u8
 
