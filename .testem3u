@@ -331,8 +331,8 @@ https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w17289
 
 
 
-#EXTINF:-1, SABOR & ARTE
-https://stmv1.srvif.com/canal29/canal29/chunklist_w587177497.m3u8
+#EXTINF:-1, TV GAZIN
+https://caikron.com.br:19360/floripa/canal1.m3u8
 
 
 
@@ -491,6 +491,15 @@ https://video01.soultv.com.br/darkflix/darkflix/index.m3u8
 #EXTINF:-1, VIAJANDO PELO BRASIL
 https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
+
+
+
+#EXTINF:-1, TASTEMADE BRASIL
+https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist480p_1849638.ts
+
+
+#EXTINF:-1 tvg-id="receitas-fast" tvg-name="receitas-fast" tvg-logo="https://i.imgur.com/X8bDYyO.png" group-title="",RECEITA FAST
+https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
 
 
 #EXTINF:-1, BEM MELHOR
