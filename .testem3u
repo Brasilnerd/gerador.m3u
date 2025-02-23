@@ -218,6 +218,21 @@ https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w331214604.m3u8
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
 
 
+#EXTINF:-1, ANIME TV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w80245717.m3u8
+
+
+#EXTINF:-1, ANIMAX
+https://stream.ichibantv.com:3547/hybrid/play.m3u8
+
+
+
+
+#EXTINF:-1, FOX KIDS
+https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w9779413.m3u8
+
+
+
 #EXTINF:-1, REVRY BRASIL
 https://dletvjdknba4f.cloudfront.net/playlist.m3u8
 
