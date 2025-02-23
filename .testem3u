@@ -525,7 +525,11 @@ https://cdn-5.nxplay.com.br/HTO_DOCS/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1, CINDIE
-https://cdn-fast.nxtv.com.br/scheduler/scheduleMaster/352/variant/22099961.m3u8?bpkio_serviceid=9978b7063e297d84a57607936ca20edb&bpkio_sessionid=10f1c7b131-9b49d467-a022-4c44-a628-d4389ca1b0de&category=all&mm_sp
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352/variant/22099958.m3u8
+
+
+#EXTINF:-1, LIFE CHANNEL BRASIL
+https://cdn.g2gsistemas.com.br/life/tracks-v1a1/mono.ts.m3u8
 
 
 
