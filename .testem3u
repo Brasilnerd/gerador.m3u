@@ -79,7 +79,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f55
 
 
 #EXTINF:-1 tvg-id="BANDRJ" tvg-name="BANDRJ" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/BAND.png" group-title="ABERTO", BAND SP
-https://super-cdn.link/band/index.m3u8
+http://supersonictv.live:8080/045016/451246/84940
 
 
 #EXTINF:-1 tvg-id="RECORDRJ" tvg-name="RECORDRJ" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/recordtv.png" group-title="ABERTO", RECORD RJ HD
@@ -89,8 +89,11 @@ http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/142
 
 
 #EXTINF:-1 tvg-id="GLOBORJ" tvg-name="GLOBORJ" tvg-logo="https://imgur.com/waZJG1M.png" group-title="ABERTO",GLOBORJ
-https://super-cdn.link/globorj-globorio/tracks-v1a1/mono.m3u8
+http://supersonictv.live:8080/045016/451246/85012
 
+
+#EXTINF:-1 tvg-id="GLOBORJ" tvg-name="GLOBORJ" tvg-logo="https://imgur.com/waZJG1M.png" group-title="ABERTO",GLOBORJ FHD
+http://supersonictv.live:8080/045016/451246/85011
 
 
 #EXTINF:-1 tvg-id="SBTSP" tvg-name="SBTSP" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/sbt.png" group-title="ABERTO",SBT SP
@@ -111,17 +114,13 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w994469238.m3u8
 
 
 
-#EXTINF:-1, SABOR & ARTE
-http://45.235.0.78/TOONCAST-HD/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="",CLASSIQUE TV SERIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name="TV Gazeta HD" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="ABERTO",TV GAZETA HD
-https://live-b.cf.dmcdn.net/sec2(Nut9ThDz0ucckzyqPF2n1BO4y7wDIL5Bmo5t7WOt_Vv6WzmRwDhUgntnvQIpuJHxtkTiMd_RGj0l2oAk60HWrKc-pwVSZj1hSf9NMuTgi2lhm67xLkj2LjQwD42pF2yL)/dm/3/x8ttlxm/s/live-1080.m3u8
+https://acesso.ecast.site:3125/stream/play.m3u8
 
 
 
@@ -231,9 +230,8 @@ https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/chunklist_w1639801
 
 
 
-#EXTINF:-1, TV MUNDO MAIOR
-https://sae12.playlist.ttvnw.net/v1/playlist/CpsG_QpKJiHUSViRJjbbN2YiSHBhRmfLGWmgcjBrv7HMXt6aVg_mPK2J4e_Ar8EXG2KK4bfROZYkjTU-lEt1K-HNZGTUeqV2Az1igfnsXtr3qz3hkJ2a8JUwT5J7NGPQDZ2HtLS1Xynp3p2gMAEP5WJGzudaeXwEnuY6j1OfizNyE7Y6nqWGNLqFzAJwaFJ5ReexQQOKQeKhPX3DUJn0KwvKlnFmkAPP4W80f68aMKpdtsbbq4U7wY1ic8cSB5U-7l50rc-TpFff1U9T4zabkewuq05rWVKV7b5em4q3IckL2WPcMH3zpyYIlPFk7n9zWc9s1THjYsCP-CvgyHwnmVVelJlP3c5O7sr0qfXkgmOVjmEaG8z7VxyeIlXugYbB0NxPsN9--AePxkGjtYxJ0K01vEp-t0KAwuU6Ex97gPRSSCyc3IawTs52qHBFTeFGEKKF5bwxdWUeDmqfmpRGMxtTXxKPjfAplZsqD9jvF8wLPiANk0PfPJ4mMY2kZQTv48JBkh1f_GQr9wu7Det6m6IBtQa5S2mMEkzEU4jaPtLhpP4SDnc-mFWwdzWbNFOYdNV3qUeH23e_C0agu-j7V9iZf3-XCyB3PyCG90xZc1YKn2L3_lBpM2NU5NTCGSA5-yFMnT6BHhUbVvb6TjyregyXqGRWAs6yItlraNAWg116woBbPKlWfkcBzSLPnhlYwc6BB-lK3gvLaGxYkH4dN90DuDZ6LJ2Wc2dTd9u3Nt1_1CB40aeXVKYjNFLnxydIANKPCXtUcVHwuIGO6eYV-V-JFLc2Y8mWHdBLR4rl7cWRvVGjiXDG34Q9g_bJ5WH5V3mBZiBIRpLLvBFYWCGVEr-aeTx5FOg0og7TzL0_YVaT3DqsALJBElE3L8K6PXnUAqLaAaXWksR8-yFb-PpPL56_kKdJ6Xff82MEqiykBTspTiiP8hi4dOPK15cJOPBm-AQ2CH78fYIGC_c8PtsoEF26tC6k13HSzaOkvbxnF1Oyq18UZXb8XLZkKSRvHZgdZvUF46VfpredLw3Bc3lG_FhWPW-waMDy48U1b_5wGgy7xcs6yhIzBZJ8alogASoJdXMtZWFzdC0yMM4L.m3u8
-
+#EXTINF:-1, TV ESPIRITA PR 
+https://srv1.zcast.com.br/rodney9747/rodney9747/chunklist_w1261165870.m3u8
 
 
 
@@ -310,8 +308,14 @@ https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist_w17289
 
 
 
-#EXTINF:-1, CANAL 29
+#EXTINF:-1, SABOR & ARTE
 https://stmv1.srvif.com/canal29/canal29/chunklist_w587177497.m3u8
+
+
+
+
+#EXTINF:-1, CANAL 29
+https://stmv1.srvif.com/canal29/canal29/chunklist_w523560414.m3u8
 
 
 
@@ -347,12 +351,14 @@ https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w1248689139.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
 
+
 #EXTINF:-1, BR8 TV  
 https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b1096000.m3u8
 
 
 #EXTINF:-1, RFTV
-https://tv01.zas.media:1936/rftv/rftv/chunklist_w1141530463.m3u8
+https://tv03.zas.media:1936/rftv/rftv/chunklist_w1948245289.m3u8
+
 
 
 #EXTINF:-1, TV MEIO NORTE
@@ -361,7 +367,8 @@ https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 
 
 #EXTINF:-1, TV MEIO
-https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w659769140.m3u8
+https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w1916638951.m3u8
+
 
 
 
@@ -420,7 +427,8 @@ https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/c
 
 
 #EXTINF:-1, TV LITORAL
-https://srv3.zcast.com.br/saranet/saranet/chunklist_w719600820.m3u8
+https://video07.logicahost.com.br/tvlitoralrn01/tvlitoralrn01/chunklist_w2128175949.m3u8
+
 
 
 #EXTINF:-1, YPÊ TV
@@ -504,6 +512,20 @@ https://cdn-3.nxplay.com.br/HALLODOC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, FILMES HTO
 https://cdn-5.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1, HTO KIDS
+https://cdn-3.nxplay.com.br/HTO_KIDS/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1, HTO DOCS
+https://cdn-5.nxplay.com.br/HTO_DOCS/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1, CINDIE
+https://cdn-fast.nxtv.com.br/scheduler/scheduleMaster/352/variant/22099961.m3u8?bpkio_serviceid=9978b7063e297d84a57607936ca20edb&bpkio_sessionid=10f1c7b131-9b49d467-a022-4c44-a628-d4389ca1b0de&category=all&mm_sp
 
 
 
