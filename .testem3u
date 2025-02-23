@@ -202,6 +202,9 @@ https://live.cdn.upx.com/723b/myStream.sdp/chunklist_w1478353086.m3u8
 
 
 
+#EXTINF:-1, PIX TV
+https://aovivo.doozytv.com.br/31025556/10150986/chunks.m3u8
+
 
 #EXTINF:-1, REDE QDM
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/chunklist_w1433763407.m3u8
