@@ -227,11 +227,6 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4
 https://stmv1.srvif.com/animetv/animetv/chunklist_w80245717.m3u8
 
 
-#EXTINF:-1, ANIMAX
-https://stream.ichibantv.com:3547/hybrid/play.m3u8
-
-
-
 
 #EXTINF:-1, FOX KIDS
 https://stmv1.srvif.com/emlsilva/emlsilva/chunklist_w9779413.m3u8
@@ -377,7 +372,6 @@ https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w1248689139.m3u8
 
 #EXTINF:-1, ROCK TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-
 
 
 #EXTINF:-1, BR8 TV  
