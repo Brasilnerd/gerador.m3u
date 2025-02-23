@@ -136,6 +136,11 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1514533455.m3u
 
 
 
+#EXTINF:-1, CINEBRASIL TV
+https://aovivo.doozytv.com.br/31025556/10160499/chunks.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/CULTURA.png" group-title="ABERTO", TV CULTURA HD
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1772209437.m3u8
