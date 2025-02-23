@@ -136,6 +136,11 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1514533455.m3u
 
 
 
+#EXTINF:-1, TV DIÁRIO
+http://supersonictv.live:8080/045016/451246/85112
+
+
+
 #EXTINF:-1, CINEBRASIL TV
 https://aovivo.doozytv.com.br/31025556/10160499/chunks.m3u8
 
