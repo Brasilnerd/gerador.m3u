@@ -385,13 +385,12 @@ https://tv03.zas.media:1936/rftv/rftv/chunklist_w1948245289.m3u8
 
 
 #EXTINF:-1, TV MEIO NORTE
-https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
+https://video08.logicahost.com.br/lidertvssp/lidertvssp/chunklist_w1205867204.m3u8
 
 
 
 #EXTINF:-1, TV MEIO
-https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w819357493.m3u8
-
+https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w1994501625.m3u8
 
 
 
@@ -413,8 +412,6 @@ https://stream.ichibantv.com:3547/stream/play.m3u8
 https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist_w656054096.m3u8
 
 
-#EXTINF:-1, TV FELIZ
-https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w203077480.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/CENTRALTV.png" group-title="", CENTRAL TV
@@ -499,8 +496,8 @@ https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u
 https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist480p_1849638.ts
 
 
-#EXTINF:-1 tvg-id="receitas-fast" tvg-name="receitas-fast" tvg-logo="https://i.imgur.com/X8bDYyO.png" group-title="",RECEITA FAST
-https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
+
+
 
 
 #EXTINF:-1, BEM MELHOR
