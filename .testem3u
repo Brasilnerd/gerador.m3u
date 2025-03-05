@@ -88,6 +88,11 @@ http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/142
 
 
 
+#EXTINF:-1 tvg-id="RECORDSP" tvg-name="RECORDSP" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/recordtv.png" group-title="ABERTO", RECORD SP HD
+https://aovivo.doozytv.com.br/31025556/10161884/chunks.m3u8
+
+
+
 #EXTINF:-1 tvg-id="GLOBORJ" tvg-name="GLOBORJ" tvg-logo="https://imgur.com/waZJG1M.png" group-title="ABERTO",GLOBORJ
 http://supersonictv.live:8080/045016/451246/85012
 
@@ -167,6 +172,11 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 #EXTINF:-1 tvg-id="TV Brasil HD" tvg-name="TV Brasil HD" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/TVBrasil.png" group-title="ABERTO", TV BRASIL
 https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/playlist.m3u8
+
+
+
+#EXTINF:-1, REDE MINAS
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_b2771072.m3u8
 
 
 
