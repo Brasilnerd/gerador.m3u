@@ -49,15 +49,6 @@ http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/295479.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B1KhZs2.png" group-title="NOTÍCIAS", 4 POR 4 
-https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://live.staticflickr.com/2053/2308291877_4e9d0bd251_c.jpg" group-title="NOTÍCIAS",AVANÇA BRASIL
-https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="NEW Brasil" tvg-name="NEW Brasil" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG_1732044251823.png" group-title="NOTÍCIAS", NEW BRASIL
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8
 
@@ -77,28 +68,6 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f55
 
 
 
-
-#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BANDRJ" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/BAND.png" group-title="ABERTO", BAND SP
-http://supersonictv.live:8080/045016/451246/84940
-
-
-#EXTINF:-1 tvg-id="RECORDRJ" tvg-name="RECORDRJ" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/recordtv.png" group-title="ABERTO", RECORD RJ HD
-http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/142
-
-
-
-
-#EXTINF:-1 tvg-id="RECORDSP" tvg-name="RECORDSP" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/recordtv.png" group-title="ABERTO", RECORD SP HD
-https://aovivo.doozytv.com.br/31025556/10161884/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-id="GLOBORJ" tvg-name="GLOBORJ" tvg-logo="https://imgur.com/waZJG1M.png" group-title="ABERTO",GLOBORJ
-http://supersonictv.live:8080/045016/451246/85012
-
-
-#EXTINF:-1 tvg-id="GLOBORJ" tvg-name="GLOBORJ" tvg-logo="https://imgur.com/waZJG1M.png" group-title="ABERTO",GLOBORJ FHD
-http://supersonictv.live:8080/045016/451246/85011
 
 
 #EXTINF:-1 tvg-id="SBTSP" tvg-name="SBTSP" tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/sbt.png" group-title="ABERTO",SBT SP
@@ -120,7 +89,7 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w994469238.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/YvJ3OPd.png" group-title="",CLASSIQUE TV SERIES
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w1297523159.m3u8
 
 
 
@@ -144,9 +113,9 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w1514533455.m3u
 
 
 
+#EXTINF:-1, REDE UMA TV
+https://acesso.ecast.site:3011/live/umatvlive.m3u8
 
-#EXTINF:-1, TV DIÁRIO
-http://supersonictv.live:8080/045016/451246/85112
 
 
 
@@ -241,9 +210,6 @@ https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w331214604.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Brasilnerd/ARQUIVOS/refs/heads/main/sesctv.png" group-title="", SESC TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/3ddc38be-7935-4d7d-ad0c-2da72c1d5613_index1080p.m3u8
 
-
-#EXTINF:-1, ANIME TV
-https://stmv1.srvif.com/animetv/animetv/chunklist_w80245717.m3u8
 
 
 
@@ -394,10 +360,6 @@ https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w1248689139.m3u8
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
 
-#EXTINF:-1, BLAST CHANNEL TV
-https://video01.logicahost.com.br/blast/blast/chunklist_w1198672633.m3u8
-
-
 
 #EXTINF:-1, BR8 TV  
 https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b1096000.m3u8
@@ -418,18 +380,12 @@ https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/chunklist_w19945016
 
 
 
-#EXTINF:-1, TV NAÇÃO
-https://hubwatch.online/TVNacao/tracks-v1a1/mono.m3u8
-
-
 
 #EXTINF:-1, TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w517527519.m3u8
 
 
 
-#EXTINF:-1, ANIMAX 
-https://stream.ichibantv.com:3547/stream/play.m3u8
 
 
 #EXTINF:-1, VIVAX TV
@@ -455,6 +411,9 @@ http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w1967293017.m3u8
 
 
+#EXTINF:-1, REDE RECON
+https://acesso.ecast.site:3862/hybrid/play.m3u8
+
 
 
 #EXTINF:-1, ADESSO TV
@@ -468,11 +427,6 @@ https://5cf4a2c2512a2.streamlock.net/8256/8256/chunklist_w673194693.m3u8
 
 #EXTINF:-1, TV CENTRO SUL
 https://5a0c3936c25c8.streamlock.net/tvcentrosultvstation/tvcentrosultvstation/chunklist_w1294307330.m3u8
-
-
-#EXTINF:-1, TV LITORAL
-https://video07.logicahost.com.br/tvlitoralrn01/tvlitoralrn01/chunklist_w2128175949.m3u8
-
 
 
 #EXTINF:-1, YPÊ TV
@@ -516,14 +470,6 @@ https://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u
 
 
 
-#EXTINF:-1, TASTEMADE BRASIL
-https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist480p_1849638.ts
-
-
-
-
-
-
 #EXTINF:-1, BEM MELHOR
 https://video01.soultv.com.br/bemmelhor/bemmelhor/playlist.m3u8
 
@@ -561,7 +507,16 @@ https://cdn-5.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8
 https://cdn-3.nxplay.com.br/HALLODOC/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:0 tvg-id="ext" group-title="NXPLAY TV",HALLO DORAMA
+https://aovivo.doozytv.com.br/31025556/10163906/chunks.m3u8
 
+
+#EXTINF:-1, TASTEMADE
+https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/cb543e1e7a6c648b9ad43a64cef049a4f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7556db80148b61299bce8c37683f03409a5e5afba358b1ebe10e42893aa1b44a55952a44b19f43c8821ca6d1815d9a5ed374a317ce91f78a8716d183f3d8986d935c83e5911ce3e25ba18b3b94c89b73309003502c7c66c7d35d7ad35efc2a7053edebc3ff44f216dc8026801a43d3e84afce542e74daf1ba9e040a4a2abd04e482ae6b033f0fb1284d2e8c80549d455faada9ed726995f95e1f2dac3c8d747b68c2baa360f5dbe954f5faa9e0c964f8badef8dfdb9b23a5c1ac479937c3c4f5d70e43415c34039351ada0a0ba43d255a7d41a2d504c0bf8d40584ceee573e664091931efa275be88bc5d3844e0cc36e4d0eb320c10d51258c157c6ce928ce9f3e47803245d0666ab50b63c00ad79018d88b97a50a32bedb8765fa6ce4ba4392d50abb62315c4de2a1781115022d9ebe263e317fc257ed9c9fb2204753ba85b894aa6431093d18451fcbb3b702fca0f4694c468f035c231e7630990bd165da7a392326db11dea94939c5312823e2a8284e180bb2cda28a93d9da4ed42ccbae1d589fecd4bddb67cfcccf75708dc89a54609b6f1cfb24/3/640x360_734800/index.m3u8
+
+
+#EXTINF:-1, SUA TV
+https://stmv1.paineltv.net/suatvsjc/suatvsjc/media_w1943546861_44229.ts
 
 #EXTINF:-1, FILMES HTO
 https://cdn-5.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
@@ -579,10 +534,6 @@ https://cdn-5.nxplay.com.br/HTO_DOCS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, CINDIE
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352/variant/22099958.m3u8
-
-
-#EXTINF:-1, LIFE CHANNEL BRASIL
-https://cdn.g2gsistemas.com.br/life/tracks-v1a1/mono.ts.m3u8
 
 
 
